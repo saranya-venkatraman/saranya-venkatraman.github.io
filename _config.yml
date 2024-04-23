@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "About me"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Pennsylvania State University, Visiting Scholar at New York University"
-  location         : "Pennsylvania, USA"
+  bio              : "PhD student in NLP/ML"
+  location         : ""
   uri              : # URL
   email            : "saranyav@psu.edu" 
 
