@@ -1,1 +1,8 @@
-<object data="{{ post.files/CV_Venkatraman_Apr24.pdf }}" width="1000" height="1000" type='application/pdf'/>
+---
+layout: cv
+permalink: /cv/
+title: cv
+nav: true
+nav_order: 3
+cv_pdf: example_pdf.pdf
+---
