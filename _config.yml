@@ -12,7 +12,7 @@ title                    : "Saranya Venkatraman"
 title_separator          : "-"
 name                     : &name " "
 description              : &description "PhD student at Pennsylvania State University, Visiting Scholar at New York University"
-URL                      : "https://saranya-venkatraman.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : https://saranya-venkatraman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saranya-venkatraman.github.io"
 
@@ -21,7 +21,7 @@ repository               : "saranya-venkatraman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "About me"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Pennsylvania State University, Visiting Scholar at New York University"
