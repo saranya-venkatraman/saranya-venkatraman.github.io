@@ -8,15 +8,15 @@ comments: true
 <div style="display: flex;">
     <!-- Image on Left Half -->
     <div style="flex: 1;">
-        <img src="path_to_your_image.jpg" alt="Image Description" style="width: 100%;">
+        <img src="images/pipleline_gptwho.png" alt="Image Description" style="width: 100%;">
     </div>
     <!-- Publications List -->
     <div style="flex: 1; margin-left: 20px;">
-        1. **Title of Paper 1**
-           - Authors: John Doe, Jane Smith
-           - Publication Date: January 1, 2023
-           - Journal/Conference: Example Journal/Conference
-           - [Link to Paper 1](https://example.com/paper1)
+        1. **GPT-who: An Information Density-based Machine-Generated Text Detector**
+           - Authors: Saranya Venkatraman, Adaku Uchendu, Dongwon Lee
+           - NAACL Fingings 2024
+           - [arXiv](https://arxiv.org/pdf/2310.06202.pdf)
+           - [code](https://github.com/saranya-venkatraman/gpt-who)
         
         <!-- Horizontal Line -->
         <hr>
