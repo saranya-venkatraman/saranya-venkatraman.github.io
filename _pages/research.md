@@ -5,6 +5,7 @@ title: "Research"
 author_profile: true
 comments: true
 ---
+# Publications 
 <div style="display: flex;">
     <!-- Image on Left Half -->
     <div style="flex: 1;">
