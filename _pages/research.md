@@ -12,7 +12,7 @@ comments: true
 
 <!-- Image on Left Half -->
 <div style="flex: 1;">
-    <img src="images/pipeline_gptwho.png" alt="Image Description" style="width: 70%;">
+    <img src="/images/pipeline_gptwho.png" alt="Image Description" style="width: 70%;">
 </div>
 
 <!-- Publications List -->
