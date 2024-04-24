@@ -6,7 +6,6 @@ author_profile: true
 comments: true
 ---
 # Publications 
-<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
 <div style="display: flex;">
     <!-- Image on Left Half -->
     <div style="flex: 1;">
