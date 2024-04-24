@@ -9,7 +9,7 @@ comments: true
 <div style="display: flex;">
     <!-- Image on Left Half -->
     <div style="flex: 1;">
-        <img src="/images/pipleline_gptwho.png" alt="Image Description" style="width: 100%;">
+        <img src="images/pipeline_gptwho.png" alt="Image Description" style="width: 100%;">
     </div>
     <!-- Publications List -->
     <div style="flex: 1; margin-left: 20px;">
