@@ -1,4 +1,3 @@
-# Publications
 
 <div style="display: flex;">
     <!-- Image on Left Half -->
