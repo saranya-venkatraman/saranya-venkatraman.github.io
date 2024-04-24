@@ -1,4 +1,10 @@
-
+---
+layout: default
+permalink: /research/
+title: research
+nav: true
+nav_order: 4
+---
 <div style="display: flex;">
     <!-- Image on Left Half -->
     <div style="flex: 1;">
