@@ -22,11 +22,6 @@ repository               : "saranya-venkatraman/saranya-venkatraman.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "About me"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD student in NLP/ML"
-  location         : ""
-  uri              : # URL
   email            : "saranyav@psu.edu" 
 
   # Academic websites
