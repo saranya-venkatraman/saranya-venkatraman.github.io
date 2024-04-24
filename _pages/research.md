@@ -1,9 +1,9 @@
 ---
 layout: default
 permalink: /research/
-title: research
-nav: true
-nav_order: 4
+title: "Research"
+author_profile: true
+comments: true
 ---
 <div style="display: flex;">
     <!-- Image on Left Half -->
