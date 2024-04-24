@@ -1,9 +1,3 @@
-layout: default
-permalink: /research/
-title: "Research"
-author_profile: true
-comments: true
-
 # Publications 
 <div style="display: flex;">
     <!-- Image on Left Half -->
