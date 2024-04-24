@@ -2,15 +2,9 @@
 main:
   - title: "Research"
     url: /research/  
-    
-  - title: "Experience"
-    url: /publications/   
-    
+        
   - title: "CV"
     url: /cv/
-
-  - title: "Teaching"
-    url: /teaching/   
-    
+      
   - title: "Miscellaneous"
     url: /misc/
