@@ -8,7 +8,7 @@ comments: true
 
 # Publications 
 
-![Image Description](images/pipeline_gptwho.png)
+![Image Description](/images/pipeline_gptwho.png)
 
 1. **GPT-who: An Information Density-based Machine-Generated Text Detector**
    Authors: Saranya Venkatraman, Adaku Uchendu, Dongwon Lee
