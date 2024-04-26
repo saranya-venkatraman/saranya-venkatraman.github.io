@@ -26,8 +26,18 @@ comments: true
   }
 
   .text {
-    flex: 1;
+    flex: 2; /* Make the text container wider */
     margin-left: 20px;
+  }
+
+  .image {
+    flex: 1; /* Keep the image container narrower */
+    margin-right: 20px;
+  }
+
+  img {
+    max-width: 100%; /* Ensure the image does not exceed its container's width */
+    height: auto;
   }
 </style>
 </head>
@@ -35,12 +45,12 @@ comments: true
 
 <div class="container">
   <div class="content">
-    <!-- Image on Left Half with adjusted width -->
-    <div style="margin-right: 20px;">
-      <img src="/images/pipeline_gptwho.png" alt="Image Description" style="width: 50%; height: auto;">
+    <!-- Image container -->
+    <div class="image">
+      <img src="/images/pipeline_gptwho.png" alt="Image Description">
     </div>
 
-    <!-- Publications List with increased left margin -->
+    <!-- Text container -->
     <div class="text">
       1. <strong>GPT-who: An Information Density-based Machine-Generated Text Detector</strong><br>
          Authors: Saranya Venkatraman, Adaku Uchendu, Dongwon Lee<br>
@@ -54,8 +64,6 @@ comments: true
 
 </body>
 </html>
-
-
 
 
 
