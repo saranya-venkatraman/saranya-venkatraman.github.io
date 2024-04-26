@@ -5,36 +5,10 @@ title: "Research"
 author_profile: true
 comments: true
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Publications</title>
-<style>
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+# Publications
 
-  .content {
-    max-width: 800px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .text {
-    flex: 1;
-    margin-left: 20px;
-  }
-</style>
-</head>
-<body>
-
-<div class="container">
-  <div class="content">
+<div style="display: flex; justify-content: center;">
+  <div style="max-width: 800px; display: flex; align-items: center;">
     <!-- Image on Left Half with adjusted width -->
     <div style="margin-right: 20px;">
       <img src="/images/pipeline_gptwho.png" alt="Image Description" style="width: 50%; height: auto;">
@@ -52,8 +26,6 @@ comments: true
   </div>
 </div>
 
-</body>
-</html>
 
 
 
