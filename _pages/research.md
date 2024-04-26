@@ -11,8 +11,8 @@ comments: true
 <div class="container">
   <div class="content">
     <!-- Image on Left Half with adjusted width -->
-    <div style="margin-right: 10px;">
-      <img src="/images/pipeline_gptwho.png" alt="Image Description" style="width: 50%;">
+    <div style="margin-right: 50px;">
+      <img src="/images/pipeline_gptwho.png" alt="Image Description" style="width: 80%;">
     </div>
 
     <!-- Publications List with increased left margin -->
