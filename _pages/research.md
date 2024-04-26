@@ -35,15 +35,15 @@ comments: true
   }
 
   .content {
-    max-width: 800px;
+    max-width: 1200px;
     display: flex;
     align-items: center;
   }
 
   .text {
     flex: 1;
-    margin-left: 10px;
-    font-size: 14px;
+    margin-left: 0px;
+    font-size: 18px;
   }
 </style>
 
