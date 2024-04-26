@@ -19,38 +19,24 @@ comments: true
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column; /* Ensure items stack vertically */
+    text-align: center; /* Center align text */
+    margin-bottom: 20px; /* Add margin between containers */
   }
 
   .content {
-    max-width: 1200px;
-    display: flex;
-    justify-content: center;
-    
-  .image {
-    flex: 1;
-    margin-right: 20px;
-    display: flex;
-    justify-content: center; /* Center the image horizontally */
-    align-items: center; /* Center the image vertically */
+    max-width: 800px; /* Adjust the maximum width as needed */
+    margin-top: 20px; /* Add space between each item */
+  }
+
+  .image img {
+    max-width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 10px; /* Add space between image and text */
   }
 
   .text {
-    flex: 5; /* Make the text container wider */
-    margin-left: 20px;
-  }
-
-  .image {
-    flex: 2;
-    margin-right: 20px;
-    display: flex;
-    align-items: center;
-  }
-
-  img {
-    max-width: 100%;
-    max-height: 100%; /* Ensure the image fits within its container */
-    width: auto; /* Ensure image width adjusts based on height */
-    height: auto; /* Ensure image height adjusts based on width */
+    margin-top: 10px; /* Add space between image and text */
   }
 </style>
 </head>
@@ -66,13 +52,16 @@ comments: true
     <!-- Text container -->
     <div class="text">
       <strong>GPT-who: An Information Density-based Machine-Generated Text Detector</strong><br>
-         Authors: Saranya Venkatraman, Adaku Uchendu, Dongwon Lee<br>
-         NAACL Findings 2024 <a href="https://arxiv.org/pdf/2310.06202.pdf">[paper]</a> <a href="https://github.com/saranya-venkatraman/gpt-who">[code]</a>
-        </div>
-      </div>
-      <hr>
+      Authors: Saranya Venkatraman, Adaku Uchendu, Dongwon Lee<br>
+      NAACL Findings 2024 <a href="https://arxiv.org/pdf/2310.06202.pdf">[paper]</a> <a href="https://github.com/saranya-venkatraman/gpt-who">[code]</a>
+    </div>
+  </div>
+</div>
+
+<hr> <!-- Horizontal line between segments -->
+
 <div class="container">
-   <div class="content">
+  <div class="content">
     <!-- Image container -->
     <div class="image">
       <img src="/images/alison.png" alt="Image Description">
@@ -81,11 +70,8 @@ comments: true
     <!-- Text container -->
     <div class="text">
       <strong>ALISON: Fast and Effective Stylometric Authorship Obfuscation</strong><br>
-         Authors: Eric Xing, Saranya Venkatraman, Thai Le, Dongwon Lee<br>
-         AAAI 2024 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29901">[paper]</a> <a href="https://github.com/ericx003/alison">[code]</a>
-      <hr>
-
-      
+      Authors: Eric Xing, Saranya Venkatraman, Thai Le, Dongwon Lee<br>
+      AAAI 2024 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29901">[paper]</a> <a href="https://github.com/ericx003/alison">[code]</a>
     </div>
   </div>
 </div>
