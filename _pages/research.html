@@ -33,6 +33,7 @@ comments: true
     flex: 1; /* Make the image container flexible */
     margin-right: 20px; /* Add space between image and text */
     text-align: center; /* Center align image */
+    order: -1; /* Set the order of the image container to be first */
   }
 
   .image img {
@@ -66,7 +67,7 @@ comments: true
 <hr> <!-- Horizontal line between segments -->
 
 <div class="container">
-  <div class="content" style="flex-direction: row-reverse;">
+  <div class="content">
     <!-- Image container -->
     <div class="image">
       <img src="/images/alison.png" alt="Image Description">
