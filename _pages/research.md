@@ -10,7 +10,7 @@ comments: true
 <div style="display: flex; justify-content: center;">
   <div style="max-width: 800px; display: flex; align-items: center;">
     <!-- Image on Left Half with adjusted width -->
-    <div style="margin-right: 20px;">
+    <div style="margin-right: 10px;">
       <img src="/images/pipeline_gptwho.png" alt="Image Description" style="width: 50%; height: auto;">
     </div>
 
@@ -18,9 +18,7 @@ comments: true
     <div class="text">
       1. **GPT-who: An Information Density-based Machine-Generated Text Detector**
          Authors: Saranya Venkatraman, Adaku Uchendu, Dongwon Lee
-         - NAACL Findings 2024
-         - [arXiv](https://arxiv.org/pdf/2310.06202.pdf)
-         - [code](https://github.com/saranya-venkatraman/gpt-who)
+         NAACL Findings 2024 [arXiv](https://arxiv.org/pdf/2310.06202.pdf) [code](https://github.com/saranya-venkatraman/gpt-who)
       <hr>
     </div>
   </div>
