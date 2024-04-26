@@ -19,24 +19,29 @@ comments: true
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column; /* Ensure items stack vertically */
-    text-align: center; /* Center align text */
     margin-bottom: 20px; /* Add margin between containers */
   }
 
   .content {
     max-width: 800px; /* Adjust the maximum width as needed */
+    display: flex;
+    align-items: center; /* Center align items vertically */
     margin-top: 20px; /* Add space between each item */
+  }
+
+  .image {
+    flex: 1; /* Make the image container flexible */
+    margin-right: 20px; /* Add space between image and text */
+    text-align: center; /* Center align image */
   }
 
   .image img {
     max-width: 100%;
     height: auto; /* Maintain aspect ratio */
-    margin-bottom: 10px; /* Add space between image and text */
   }
 
   .text {
-    margin-top: 10px; /* Add space between image and text */
+    flex: 2; /* Make the text container wider */
   }
 </style>
 </head>
@@ -61,7 +66,7 @@ comments: true
 <hr> <!-- Horizontal line between segments -->
 
 <div class="container">
-  <div class="content">
+  <div class="content" style="flex-direction: row-reverse;">
     <!-- Image container -->
     <div class="image">
       <img src="/images/alison.png" alt="Image Description">
