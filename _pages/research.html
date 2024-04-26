@@ -33,12 +33,15 @@ comments: true
   .image {
     flex: 1;
     margin-right: 20px;
+    display: flex;
+    align-items: center;
   }
 
   img {
     max-width: 100%;
-    height: 100%; /* Ensure the image takes the full height of its container */
-    object-fit: cover; /* Ensure the image fills its container */
+    max-height: 100%; /* Ensure the image fits within its container */
+    width: auto; /* Ensure image width adjusts based on height */
+    height: auto; /* Ensure image height adjusts based on width */
   }
 </style>
 </head>
