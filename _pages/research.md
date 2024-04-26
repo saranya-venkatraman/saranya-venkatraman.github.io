@@ -6,6 +6,7 @@ author_profile: true
 comments: true
 ---
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -25,7 +26,8 @@ comments: true
 
   .text {
     flex: 1;
-    margin-left: 20px;
+    margin-left: 10px; /* Adjust left margin */
+    font-size: 14px; /* Adjust font size */
   }
 </style>
 </head>
@@ -35,7 +37,7 @@ comments: true
   <div class="content">
 
     <!-- Image on Left Half with adjusted width -->
-    <div>
+    <div style="margin-right: 10px;"> <!-- Adjust right margin -->
         <img src="/images/pipeline_gptwho.png" alt="Image Description" style="width: 50%;">
     </div>
 
