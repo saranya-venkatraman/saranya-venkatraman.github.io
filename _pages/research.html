@@ -13,63 +13,62 @@ comments: true
 <title>Publications</title>
 <style>
    body {
-        margin-top: 50px; /* Adjust this value as needed */
-        font-family: Arial, sans-serif; /* Change font family */
-    }
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 20px; /* Add margin between containers */
-  }
+    margin-top: 50px; /* Adjust this value as needed */
+    font-family: Arial, sans-serif; /* Change font family */
+}
 
-  .content {
+.container {
+    display: inline-block; /* Ensure containers only take the width of their content */
+    margin-bottom: 20px; /* Add margin between containers */
+    width: 100%; /* Ensure containers take full width of the parent */
+}
+
+.content {
     max-width: 1000px; /* Adjust the maximum width as needed */
     display: flex;
     align-items: center; /* Center align items vertically */
     margin-top: 20px; /* Add space between each item */
-  }
+}
 
-  .image {
-    flex: 1; /* Make the image container flexible */
+.image {
+    flex: 0 0 auto; /* Make the image container flexible */
     margin-right: 20px; /* Add space between image and text */
     text-align: center; /* Center align image */
-    order: -1; /* Set the order of the image container to be first */
-  }
+}
 
-  .image img {
+.image img {
     max-width: 100%;
     height: auto; /* Maintain aspect ratio */
     border-radius: 8px; /* Add border radius for rounded corners */
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Add box shadow for image */
-  }
+}
 
-  .text {
-    flex: 2; /* Make the text container wider */
-  }
+.text {
+    flex: 1; /* Make the text container flexible */
+}
 
-  .text strong {
+.text strong {
     font-size: 18px; /* Increase font size for strong text */
-  }
+}
 
-  .text p {
+.text p {
     font-size: 16px; /* Increase font size for paragraph text */
     line-height: 1.5; /* Adjust line height for better readability */
     margin-top: 5px; /* Add margin at the top of paragraphs */
-  }
+}
 
-  .text a {
+.text a {
     color: blue; /* Change link color */
     text-decoration: none; /* Remove default underline */
     font-weight: bold; /* Make links bold */
     margin-right: 10px; /* Add margin between links */
-  }
+}
 
-  hr {
+hr {
     border: none;
     border-top: 2px solid #ccc; /* Change horizontal line color */
     margin: 20px 0; /* Add margin for spacing */
-  }
+}
 </style>
 </head>
 <body>
