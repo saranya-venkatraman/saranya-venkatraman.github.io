@@ -58,11 +58,9 @@ redirect_from:
 <body>
   
 <div class="container">
-  <h1>Research Profile</h1>
   <p>Hi there! I'm a PhD student at Pennsylvania State University, specializing in the Informatics track with a focus on Data Science & Artificial Intelligence. Under the guidance of <a href="https://pike.psu.edu/dongwon/" target="_blank">Prof. Dongwon Lee</a>, I am part of the <a href="https://pike.psu.edu/index.html" target="_blank">PIKE research group</a>. Additionally, I serve as a Visiting Scholar at New York University, collaborating with <a href="https://hhexiy.github.io" target="_blank">Prof. He He</a>'s group.</p>
 
   <p>My research interests revolve around machine-generated text detection, authorship attribution, obfuscation, and watermarking approaches tailored for Large Language Models (LLMs). I am particularly intrigued by the evaluation of LLM-generated texts, exploring the nuances that distinguish them as "human-like". I aspire to delve deeper into integrating psycholinguistic theory into Natural Language Processing (NLP) methodologies, seeking avenues for models to emulate human cognitive processes.</p>
-  <hr>
   <h2 style="color: #5F9EA0;">News</h2>
 
   <div class="news-item">
