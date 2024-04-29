@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /misc/
 author_profile: true
 ---
