@@ -1,8 +1,6 @@
 ---
-permalink: /
+permalink: /misc/
 author_profile: true
-redirect_from: 
-  - /misc/
 ---
 
 Support for Students
