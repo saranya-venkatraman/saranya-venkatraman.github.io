@@ -66,11 +66,11 @@ redirect_from:
   </div>
   
   <div class="news-item">
-    <h3>Mar 2024 - Won the Graduate Student Award for Excellence in Teaching Support (College of IST, Penn State) 2023-2024 for the course <em>DS 402: "Socially Responsible AI"</em>em></h3>
+    <h3>Mar 2024 - Won the Graduate Student Award for Excellence in Teaching Support (College of IST, Penn State) 2023-2024 for the course <em>DS 402: "Socially Responsible AI"</em></h3>
   </div>
   
   <div class="news-item">
-    <h3>Mar 2024 - 1 paper on using statistical psycholinguistic features to detect Deepfake Texts - <a href="https://browse.arxiv.org/abs/2310.06202" target="_blank" style="color: #1976d2;">GPT-who</a> accepted to NAACL-Findings 2024</h3>
+    <h3>Mar 2024 - 1 paper on using statistical psycholinguistic features to detect Deepfake Texts - <a href="https://browse.arxiv.org/abs/2310.06202" target="_blank" style="color: #1976d2;">GPT-who: An Information Density-based Machine-Generated Text Detector</a> accepted to NAACL-Findings 2024</h3>
   </div>
   
   <div class="news-item">
