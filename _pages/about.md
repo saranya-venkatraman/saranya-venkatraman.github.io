@@ -1,8 +1,7 @@
 ---
-permalink: /
+layout: archive
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
 ---
 <!DOCTYPE html>
 <html lang="en">
