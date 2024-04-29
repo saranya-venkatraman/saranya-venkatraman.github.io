@@ -28,7 +28,7 @@ redirect_from:
       color: #333;
     }
     a {
-      color: #40e0d0;
+      color: #5F9EA0;
       text-decoration: none;
     }
     a:hover {
@@ -36,7 +36,7 @@ redirect_from:
     }
     .news-item {
       margin-bottom: 20px;
-      border-left: 3px solid #40e0d0;
+      border-left: 3px solid #5F9EA0;
       padding-left: 10px;
     }
     .news-item h3 {
@@ -47,7 +47,7 @@ redirect_from:
       margin-bottom: 5px;
     }
     hr {
-      border-top: 2px solid #40e0d0;
+      border-top: 2px solid #5F9EA0;
       margin-top: 30px;
     }
   </style>
@@ -59,7 +59,7 @@ redirect_from:
 
   <p>My research focuses on  <em>machine-generated text detection, authorship attribution, obfuscation, and watermarking approaches</em> for Large Language Models (LLMs). I am also interested in the <em>evaluation of LLM-generated texts</em> and what might or might not make them "human-like". I hope to work further on leveraging psycholinguistic theory for Natural Language Processing (NLP) applications and find ways in which models can directly learn from human processes.</p>
   <hr>
-  <h2 style="color: #40e0d0;">News</h2>
+  <h2 style="color: #5F9EA0;">News</h2>
 
   <div class="news-item">
     <h3>Apr 2024 - Attended the Women in Cybersecurity Conference <a href="https://www.wicys.org/events/wicys-2024/" target="_blank" style="color: #1976d2;">WiCys 2024</a> in Nashville, TN!</h3>
