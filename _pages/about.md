@@ -66,7 +66,7 @@ author_profile: true
   </div>
   
   <div class="news-item">
-    <h3>Mar 2024 - Won the Graduate Student Award for Excellence in Teaching Support (College of IST, Penn State) 2023-2024 for the course <em>DS 402: "Socially Responsible AI"</em></h3>
+    <h3>Mar 2024 - Won the Graduate Student Award for Excellence in Teaching Support (College of IST, Penn State) 2023-2024 for the course DS 402: <em>"Socially Responsible AI"</em></h3>
   </div>
   
   <div class="news-item">
