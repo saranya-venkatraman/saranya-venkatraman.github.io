@@ -14,7 +14,7 @@ redirect_from:
       font-family: Arial, sans-serif;
       line-height: 1.6;
       margin: auto;
-      margin-top: 10px;
+      margin-top: 20px;
       padding: 0;
       background-color: #f9f9f9;
       color: #333;
@@ -22,7 +22,7 @@ redirect_from:
     .container {
       max-width: 800px;
       margin: auto;
-      margin-top: 10px;
+      margin-top: 20px;
       padding: 20px;
       background-color: #fff;
       border-radius: 8px;
