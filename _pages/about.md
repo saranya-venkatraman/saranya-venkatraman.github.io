@@ -12,9 +12,6 @@ redirect_from:
   <style>
    body {
       font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: auto;
-      padding: 20px;
       background-color: #f9f9f9;
       color: #333;
     }
