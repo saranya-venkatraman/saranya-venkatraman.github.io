@@ -1,7 +1,10 @@
 ---
 layout: archive
-permalink: /about/
+permalink: /
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 <html lang="en">
 <head>
