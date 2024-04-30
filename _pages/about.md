@@ -71,7 +71,7 @@ redirect_from:
   </div>
   
   <div class="news-item">
-    <h3>Feb 2024 - 1 paper on authorship obfuscation using syntactic stylometry - <a href="[https://arxiv.org/abs/2311.08374](https://ojs.aaai.org/index.php/AAAI/article/view/29901)" target="_blank" style="color: #1976d2;">ALISON: Fast and Effective Stylometric Authorship Obfuscation</a> at AAAI 2024</h3>
+    <h3>Feb 2024 - 1 paper on authorship obfuscation using syntactic stylometry - <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank" style="color: #1976d2;">ALISON: Fast and Effective Stylometric Authorship Obfuscation</a> at AAAI 2024</h3>
   </div>
   
   <div class="news-item">
