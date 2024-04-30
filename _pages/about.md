@@ -14,7 +14,7 @@ redirect_from:
       font-family: Arial, sans-serif;
       line-height: 1.6;
       margin: auto;
-      margin-top: 0;
+      margin-top: auto;
       padding: 0;
       background-color: #f9f9f9;
       color: #333;
