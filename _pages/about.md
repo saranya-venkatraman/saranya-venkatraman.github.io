@@ -13,7 +13,7 @@ redirect_from:
     body {
       font-family: Arial, sans-serif;
       line-height: 1.6;
-      margin: 0;
+      margin: auto;
       padding: 0;
       background-color: #f9f9f9;
       color: #333;
