@@ -11,7 +11,6 @@ redirect_from:
   <style>
    body {
       font-family: 'Roboto', sans-serif;
-      background-color: #f9f9f9;
       color: #333;
     }
     h1 {
@@ -84,6 +83,5 @@ redirect_from:
   <div class="news-item">
     <h3>May 2023 - 1 paper on evaluation of decoding algorithms - <a href="https://aclanthology.org/2023.findings-eacl.70/" target="_blank" style="color: #1976d2;">How do decoding algorithms distribute information in dialogue responses?</a> at EACL-Findings 2023</h3>
   </div>
-
 </body>
 </html>
