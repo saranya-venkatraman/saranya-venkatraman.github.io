@@ -14,9 +14,6 @@ redirect_from:
       background-color: #f9f9f9;
       color: #333;
     }
-    p {
-    font-size: 14px;
-    }
     h1 {
       color: #333;
     }
