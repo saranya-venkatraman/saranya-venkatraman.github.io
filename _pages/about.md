@@ -9,9 +9,15 @@ redirect_from:
 <head>
   <style>
    body {
-      font-family: 'Roboto', sans-serif;
+      font-family: 'Arial', sans-serif;
       color: #333;
     }
+    .container {
+    font-family: 'Arial', sans-serif; /* Change the font family here */
+    max-width: 800px; /* Adjust the maximum width as needed */
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 0 20px; /* Add padding to the sides */
+  }
     h1 {
       color: #333;
     }
@@ -41,6 +47,7 @@ redirect_from:
   </style>
 </head>
 <body>
+ <div class="container">
      <p>Hello! I'm a PhD student at Pennsylvania State University, specializing in the Informatics track with a focus on Data Science & Artificial Intelligence. I am advised by <a href="https://pike.psu.edu/dongwon/" target="_blank">Prof. Dongwon Lee</a> and a part of the <a href="https://pike.psu.edu/index.html" target="_blank">PIKE research group</a>. I am also a Visiting Scholar at New York University in <a href="https://hhexiy.github.io" target="_blank">Prof. He He</a>'s group.</p>
    
      <p>My research focuses on <em>machine-generated text detection, authorship attribution, obfuscation, and watermarking approaches</em> for Large Language Models (LLMs). I am also interested in the <em>evaluation of LLM-generated texts</em> and what might or might not make them "human-like". I hope to work further on leveraging psycholinguistic theory for Natural Language Processing (NLP) applications and find ways in which models can directly learn from human cognitive processes.</p>
@@ -82,5 +89,10 @@ redirect_from:
   <div class="news-item">
     <h3>May 2023 - 1 paper on evaluation of decoding algorithms - <a href="https://aclanthology.org/2023.findings-eacl.70/" target="_blank" style="color: #1976d2;">How do decoding algorithms distribute information in dialogue responses?</a> at EACL-Findings 2023</h3>
   </div>
+  
+<h2 style="color: #5F9EA0;">Research</h2>
+<iframe src="https://saranya-venkatraman.github.io/research/" frameborder="0" width="100%" height="600"></iframe>
+
+</div>
 </body>
 </html>
