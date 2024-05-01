@@ -1,8 +1,6 @@
 ---
 permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about.html
 ---
 <html lang="en">
 <head>
