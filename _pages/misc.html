@@ -10,14 +10,23 @@ author_profile: true
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <style>
-    .image-row {
-        display: flex;
-        justify-content: space-between; /* Adjust alignment as needed */
-    }
-    
-    .image {
-        width: 30%; /* Adjust image size as needed */
-    }
+  .image-row {
+    display: flex;
+    justify-content: space-between; /* Adjust alignment as needed */
+    margin-bottom: 20px; /* Add space between rows */
+  }
+  
+  .image {
+    width: 30%; /* Adjust image size as needed */
+    margin-right: 10px; /* Add space between images */
+  }
+
+  /* Clearfix for flex container */
+  .clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 </style>
 <body>
 
@@ -30,8 +39,7 @@ author_profile: true
 <h2 style="color: #5F9EA0;">Other Interests</h2>
 <p>In my free time, I enjoy running, biking, snowboarding, and listening to/collecting vinyl records. In another life, I was also a singer trained in Indian Classical Vocals and part of an acapella group.</p>
 
-
-<div class="image-row">
+<div class="image-row clearfix">
     <img src="/images/running.png" alt="Image 1" class="image">
     <img src="/images/biking.png" alt="Image 2" class="image">
     <img src="/images/snowboard1.png" alt="Image 3" class="image">
