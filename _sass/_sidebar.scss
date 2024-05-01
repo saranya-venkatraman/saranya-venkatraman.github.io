@@ -92,9 +92,7 @@
   img {
     max-width: 175px;
     border-radius: 0%;
-    border: 2px solid #E5E4E2;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Increased shadow for depth */
-   
+     
     @include breakpoint($large) {
       padding: 5px;
       border: 1px solid $border-color;
