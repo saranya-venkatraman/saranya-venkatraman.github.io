@@ -41,11 +41,11 @@ redirect_from:
   </style>
 </head>
 <body>
-     <p>Hello! I'm a PhD student at Pennsylvania State University, specializing in the Informatics track with a focus on Data Science & Artificial Intelligence. I am advised by <a href="https://pike.psu.edu/dongwon/" target="_blank">Prof. Dongwon Lee</a> and a part of the <a href="https://pike.psu.edu/index.html" target="_blank">PIKE research group</a>. I am also a Visiting Scholar at New York University in <a href="https://hhexiy.github.io" target="_blank">Prof. He He</a>'s group.</p>
+     <p align="justify">Hello! I'm a PhD student at Pennsylvania State University, specializing in the Informatics track with a focus on Data Science & Artificial Intelligence. I am advised by <a href="https://pike.psu.edu/dongwon/" target="_blank">Prof. Dongwon Lee</a> and a part of the <a href="https://pike.psu.edu/index.html" target="_blank">PIKE research group</a>. I am also a Visiting Scholar at New York University in <a href="https://hhexiy.github.io" target="_blank">Prof. He He</a>'s group.</p>
    
-     <p>My research focuses on <em>machine-generated text detection, authorship attribution, obfuscation, and watermarking approaches</em> for Large Language Models (LLMs). I am also interested in the <em>evaluation of LLM-generated texts</em> and what might or might not make them "human-like". I hope to work further on leveraging psycholinguistic theory for Natural Language Processing (NLP) applications and find ways in which models can directly learn from human cognitive processes.</p>
+     <p align="justify">My research focuses on <em>machine-generated text detection, authorship attribution, obfuscation, and watermarking approaches</em> for Large Language Models (LLMs). I am also interested in the <em>evaluation of LLM-generated texts</em> and what might or might not make them "human-like". I hope to work further on leveraging psycholinguistic theory for Natural Language Processing (NLP) applications and find ways in which models can directly learn from human cognitive processes.</p>
 
-     <p>During my PhD, I have been a research intern at Google, Samsung Research America, and Cadence Design Systems, helping build Reinforcement Learning (RL), NLP, and Machine Learning (ML) solutions for different applications such as dialog-based recommenders, voice assistants, and custom hardware design layouts, respectively.</p>
+     <p align="justify">During my PhD, I have been a research intern at Google, Samsung Research America, and Cadence Design Systems, helping build Reinforcement Learning (RL), NLP, and Machine Learning (ML) solutions for different applications such as dialog-based recommenders, voice assistants, and custom hardware design layouts, respectively.</p>
      
   <h2 style="color: #5F9EA0;">News</h2>
 
