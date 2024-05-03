@@ -45,7 +45,7 @@ redirect_from:
    
      <p align="justify">My research focuses on <em>machine-generated text detection, authorship attribution, obfuscation, and watermarking approaches</em> for Large Language Models (LLMs). I am also interested in the <em>evaluation of LLM-generated texts</em> and what might or might not make them "human-like". I hope to work further on leveraging psycholinguistic theory for Natural Language Processing (NLP) applications and find ways in which models can directly learn from human cognitive processes.</p>
 
-     <p align="justify">During my PhD, I have been a research intern at Google, Samsung Research America, and Cadence Design Systems, helping build Reinforcement Learning (RL), NLP, and Machine Learning (ML) solutions for different applications such as dialog-based recommenders, voice assistants, and custom hardware design layouts, respectively.</p>
+     <p align="justify">During my PhD, I have been a research intern at Google, Samsung Research America, and Cadence Design Systems, helping build Reinforcement Learning (RL), NLP, and Machine Learning (ML) solutions for different applications such as dialog-based recommenders, voice assistants, and custom hardware design layouts, respectively.</p> 
      
   <h2 style="color: #5F9EA0;">News</h2>
 
