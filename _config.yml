@@ -12,7 +12,7 @@ title                    : "Saranya Venkatraman"
 title_separator          : "-"
 name                     : &name " "
 description              : "NLP/ML PhD candidate"
-URL                      : https://saranya-venkatraman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+URL                      : "https://saranya-venkatraman.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saranya-venkatraman/saranya-venkatraman.github.io"
 
