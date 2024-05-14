@@ -11,6 +11,7 @@ redirect_from:
    body {
       font-family: 'Roboto', sans-serif;
       color: #333;
+      font-size: 20px;
     }
     h1 {
       color: #333;
