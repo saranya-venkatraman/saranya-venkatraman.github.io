@@ -9,7 +9,6 @@ redirect_from:
 <head>
   <style>
    body {
-      font-family: 'Roboto', sans-serif;
       color: #333;
       font-size: 17px;
     }
@@ -32,8 +31,7 @@ redirect_from:
       margin-top: 0;
       color: #333;
       font-weight: normal;
-      font-family: 'Roboto', sans-serif;
-      font-size: 16px;
+      font-size: 17px;
     }
     hr {
       border-top: 2px solid #5F9EA0;
