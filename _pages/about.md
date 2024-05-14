@@ -31,6 +31,8 @@ redirect_from:
       margin-top: 0;
       color: #333;
       font-weight: normal;
+      font-family: 'Roboto', sans-serif;
+      font-size: 14px;
     }
     hr {
       border-top: 2px solid #5F9EA0;
