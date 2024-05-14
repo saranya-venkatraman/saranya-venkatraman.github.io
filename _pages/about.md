@@ -82,7 +82,7 @@ redirect_from:
   </div>
   
   <div class="news-item">
-    <h3><b>May 2023</b> - Paper on evaluation of decoding algorithms - <a href="https://aclanthology.org/2023.findings-eacl.70/" target="_blank" style="color: #1976d2;">How do decoding algorithms distribute information in dialogue responses?</a> at EACL-Findings 2023</h3>
+    <h3><b>May 2023</b> - Paper on evaluation of decoding algorithms titled <a href="https://aclanthology.org/2023.findings-eacl.70/" target="_blank" style="color: #1976d2;">How do decoding algorithms distribute information in dialogue responses?</a> at EACL-Findings 2023</h3>
   </div>
 </body>
 </html>
