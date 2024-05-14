@@ -51,39 +51,39 @@ redirect_from:
   <h2 style="color: #5F9EA0;">News</h2>
 
   <div class="news-item">
-    <h3>Apr 2024</h3> <p>- Attended the Women in Cybersecurity Conference <a href="https://www.wicys.org/events/wicys-2024/" target="_blank" style="color: #1976d2;">WiCys</a> in Nashville, TN</p>
+    <h3>Apr 2024</h3><p>- Attended the Women in Cybersecurity Conference <a href="https://www.wicys.org/events/wicys-2024/" target="_blank" style="color: #1976d2;">WiCys</a> in Nashville, TN</p>
   </div>
   
   <div class="news-item">
-    <h3>Mar 2024 </h3><p>- Won the Graduate Student Award for Excellence in Teaching Support (College of IST, Penn State) 2023-2024 for the course DS 402: <em>"Socially Responsible AI"</em><p>
+    <h3>Mar 2024</h3><p>- Won the Graduate Student Award for Excellence in Teaching Support (College of IST, Penn State) 2023-2024 for the course DS 402: <em>"Socially Responsible AI"</em><p>
   </div>
   
   <div class="news-item">
-   <h3>Mar 2024</h3><p></p> - Paper on using statistical psycholinguistic features to detect Deepfake Texts - <a href="https://browse.arxiv.org/abs/2310.06202" target="_blank" style="color: #1976d2;">GPT-who: An Information Density-based Machine-Generated Text Detector</a> accepted to NAACL-Findings 2024</p>
+   <h3>Mar 2024</h3><p>- Paper on using statistical psycholinguistic features to detect Deepfake Texts - <a href="https://browse.arxiv.org/abs/2310.06202" target="_blank" style="color: #1976d2;">GPT-who: An Information Density-based Machine-Generated Text Detector</a> accepted to NAACL-Findings 2024</p>
   </div>
   
   <div class="news-item">
-    <h3>Mar 2024 </h3><p>- Paper - <a href="https://tngoon.github.io/docs/pubs/Ngoon_etal_2024_CHI.pdf" target="_blank" style="color: #1976d2;">ClassInSight: Designing Conversation Support Tools to Visualize Classroom Discussion for Personalized Teacher Professional Development</a> accepted to CHI 2024</p>
+    <h3>Mar 2024 </h3><p>- Paper titled <a href="https://tngoon.github.io/docs/pubs/Ngoon_etal_2024_CHI.pdf" target="_blank" style="color: #1976d2;">ClassInSight: Designing Conversation Support Tools to Visualize Classroom Discussion for Personalized Teacher Professional Development</a> accepted to CHI 2024</p>
   </div>
   
   <div class="news-item">
-    <h3>Feb 2024</h3>h3><p> - Paper on authorship obfuscation using syntactic stylometry - <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank" style="color: #1976d2;">ALISON: Fast and Effective Stylometric Authorship Obfuscation</a> at AAAI 2024<</p>
+    <h3>Feb 2024</h3><p>- Paper on authorship obfuscation using syntactic stylometry - <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank" style="color: #1976d2;">ALISON: Fast and Effective Stylometric Authorship Obfuscation</a> at AAAI 2024</p>
   </div>
   
   <div class="news-item">
-    <h3>Dec 2023 - Outstanding Paper Award for - <a href="https://aclanthology.org/2023.emnlp-main.848/" target="_blank" style="color: #1976d2;">The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis</a> at EMNLP 2023</h3>
+    <h3>Dec 2023</h3><p>- Outstanding Paper Award for - <a href="https://aclanthology.org/2023.emnlp-main.848/" target="_blank" style="color: #1976d2;">The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis</a> at EMNLP 2023</p>
   </div>
   
   <div class="news-item">
-    <h3>Nov 2023 - New preprint - <a href="https://arxiv.org/abs/2311.08374" target="_blank" style="color: #1976d2;">A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts</a> is available on arXiv</h3>
+    <h3>Nov 2023</h3><p>- New preprint titled <a href="https://arxiv.org/abs/2311.08374" target="_blank" style="color: #1976d2;">A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts</a> is available on arXiv</p>
   </div>
   
   <div class="news-item">
-    <h3>Oct 2023 - Tutorial - <a href="https://adauchendu.github.io/Tutorials/" target="_blank" style="color: #1976d2;">Catch Me If You GPT: Tutorial on Deepfake Texts</a> accepted at <a href="https://2024.naacl.org/program/tutorials/" target="_blank" style="color: #1976d2;">NAACL 2024</a></h3>
+    <h3>Oct 2023</h3><p>- Tutorial titled <a href="https://adauchendu.github.io/Tutorials/" target="_blank" style="color: #1976d2;">Catch Me If You GPT: Tutorial on Deepfake Texts</a> accepted at <a href="https://2024.naacl.org/program/tutorials/" target="_blank" style="color: #1976d2;">NAACL 2024</a></p>
   </div>
   
   <div class="news-item">
-    <h3>May 2023 - Paper on evaluation of decoding algorithms - <a href="https://aclanthology.org/2023.findings-eacl.70/" target="_blank" style="color: #1976d2;">How do decoding algorithms distribute information in dialogue responses?</a> at EACL-Findings 2023</h3>
+    <h3>May 2023</h3><p>- Paper on evaluation of decoding algorithms - <a href="https://aclanthology.org/2023.findings-eacl.70/" target="_blank" style="color: #1976d2;">How do decoding algorithms distribute information in dialogue responses?</a> at EACL-Findings 2023</p>
   </div>
 </body>
 </html>
