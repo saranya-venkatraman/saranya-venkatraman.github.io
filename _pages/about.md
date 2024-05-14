@@ -39,7 +39,7 @@ redirect_from:
   </style>
 </head>    
 <body>
-     <p align="justify">Hello! I'm a PhD student at Pennsylvania State University, specializing in the Informatics track with a focus on Data Science & Artificial Intelligence. I am advised by <a href="https://pike.psu.edu/dongwon/" style="color: #57068C; text-decoration: none" target="_blank">Prof. Dongwon Lee</a> and a part of the <a href="https://pike.psu.edu/index.html" style="color: #57068C; text-decoration: none" target="_blank">PIKE research group</a>. I am also a Visiting Scholar at New York University in <a href="https://hhexiy.github.io" style="color: #57068C; text-decoration: none" target="_blank">Prof. He He</a>'s group.</p>
+     <p align="justify">Hello! I'm a PhD student at Pennsylvania State University, specializing in the Informatics track with a focus on Data Science & Artificial Intelligence. I am advised by <a href="https://pike.psu.edu/dongwon/" style="color: #4C8BF5; text-decoration: none" target="_blank">Prof. Dongwon Lee</a> and a part of the <a href="https://pike.psu.edu/index.html" style="color: #4C8BF5; text-decoration: none" target="_blank">PIKE research group</a>. I am also a Visiting Scholar at New York University in <a href="https://hhexiy.github.io" style="color: #4C8BF5; text-decoration: none" target="_blank">Prof. He He</a>'s group.</p>
    
      <p align="justify">My research focuses on <em>machine-generated text detection, authorship attribution, obfuscation, and watermarking approaches</em> for Large Language Models (LLMs). I am also interested in the <em>evaluation of LLM-generated texts</em> and what might or might not make them "human-like". I hope to work further on leveraging psycholinguistic theory for Natural Language Processing (NLP) applications and find ways in which models can directly learn from human cognitive processes.</p>
 
@@ -48,39 +48,39 @@ redirect_from:
   <h2 style="color: #5F9EA0;">News</h2>
 
   <div class="news-item">
-    <h3><em>Apr 2024</em> - Attended the Women in Cybersecurity Conference <a href="https://www.wicys.org/events/wicys-2024/" target="_blank" style="color: #1976d2;">WiCys</a> in Nashville, TN</h3>
+    <h3><b>Apr 2024</b> - Attended the Women in Cybersecurity Conference <a href="https://www.wicys.org/events/wicys-2024/" target="_blank" style="color: #1976d2;">WiCys</a> in Nashville, TN</h3>
   </div>
   
   <div class="news-item">
-    <h3><em>Mar 2024</em> - Won the Graduate Student Award for Excellence in Teaching Support (College of IST, Penn State) 2023-2024 for the course DS 402: <em>"Socially Responsible AI"</em></h3>
+    <h3><b>Mar 2024</b> - Won the Graduate Student Award for Excellence in Teaching Support (College of IST, Penn State) 2023-2024 for the course DS 402: <em>"Socially Responsible AI"</em></h3>
   </div>
   
   <div class="news-item">
-    <h3><em>Mar 2024</em> - Paper on using statistical psycholinguistic features to detect Deepfake Texts - <a href="https://browse.arxiv.org/abs/2310.06202" target="_blank" style="color: #1976d2;">GPT-who: An Information Density-based Machine-Generated Text Detector</a> accepted to NAACL-Findings 2024</h3>
+    <h3><b>Mar 2024</b> - Paper on using statistical psycholinguistic features to detect Deepfake Texts - <a href="https://browse.arxiv.org/abs/2310.06202" target="_blank" style="color: #1976d2;">GPT-who: An Information Density-based Machine-Generated Text Detector</a> accepted to NAACL-Findings 2024</h3>
   </div>
   
   <div class="news-item">
-    <h3><em>Mar 2024</em> - Paper - <a href="https://tngoon.github.io/docs/pubs/Ngoon_etal_2024_CHI.pdf" target="_blank" style="color: #1976d2;">ClassInSight: Designing Conversation Support Tools to Visualize Classroom Discussion for Personalized Teacher Professional Development</a> accepted to CHI 2024</h3>
+    <h3><b>Mar 2024</b> - Paper - <a href="https://tngoon.github.io/docs/pubs/Ngoon_etal_2024_CHI.pdf" target="_blank" style="color: #1976d2;">ClassInSight: Designing Conversation Support Tools to Visualize Classroom Discussion for Personalized Teacher Professional Development</a> accepted to CHI 2024</h3>
   </div>
   
   <div class="news-item">
-    <h3><em>Feb 2024</em> - Paper on authorship obfuscation using syntactic stylometry - <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank" style="color: #1976d2;">ALISON: Fast and Effective Stylometric Authorship Obfuscation</a> at AAAI 2024</h3>
+    <h3><b>Feb 2024</b> - Paper on authorship obfuscation using syntactic stylometry - <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank" style="color: #1976d2;">ALISON: Fast and Effective Stylometric Authorship Obfuscation</a> at AAAI 2024</h3>
   </div>
   
   <div class="news-item">
-    <h3><em>Dec 2023</em> - Outstanding Paper Award for - <a href="https://aclanthology.org/2023.emnlp-main.848/" target="_blank" style="color: #1976d2;">The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis</a> at EMNLP 2023</h3>
+    <h3><b>Dec 2023</b> - Outstanding Paper Award for - <a href="https://aclanthology.org/2023.emnlp-main.848/" target="_blank" style="color: #1976d2;">The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis</a> at EMNLP 2023</h3>
   </div>
   
   <div class="news-item">
-    <h3><em>Nov 2023</em> - New preprint - <a href="https://arxiv.org/abs/2311.08374" target="_blank" style="color: #1976d2;">A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts</a> is available on arXiv</h3>
+    <h3><b>Nov 2023</b> - New preprint - <a href="https://arxiv.org/abs/2311.08374" target="_blank" style="color: #1976d2;">A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts</a> is available on arXiv</h3>
   </div>
   
   <div class="news-item">
-    <h3><em>Oct 2023</em> - Tutorial - <a href="https://adauchendu.github.io/Tutorials/" target="_blank" style="color: #1976d2;">Catch Me If You GPT: Tutorial on Deepfake Texts</a> accepted at <a href="https://2024.naacl.org/program/tutorials/" target="_blank" style="color: #1976d2;">NAACL 2024</a></h3>
+    <h3><b>Oct 2023</b> - Tutorial - <a href="https://adauchendu.github.io/Tutorials/" target="_blank" style="color: #1976d2;">Catch Me If You GPT: Tutorial on Deepfake Texts</a> accepted at <a href="https://2024.naacl.org/program/tutorials/" target="_blank" style="color: #1976d2;">NAACL 2024</a></h3>
   </div>
   
   <div class="news-item">
-    <h3><em>May 2023</em> - Paper on evaluation of decoding algorithms - <a href="https://aclanthology.org/2023.findings-eacl.70/" target="_blank" style="color: #1976d2;">How do decoding algorithms distribute information in dialogue responses?</a> at EACL-Findings 2023</h3>
+    <h3><b>May 2023</b> - Paper on evaluation of decoding algorithms - <a href="https://aclanthology.org/2023.findings-eacl.70/" target="_blank" style="color: #1976d2;">How do decoding algorithms distribute information in dialogue responses?</a> at EACL-Findings 2023</h3>
   </div>
 </body>
 </html>
