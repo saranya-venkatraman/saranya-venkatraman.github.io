@@ -32,7 +32,7 @@ redirect_from:
       color: #333;
       font-weight: normal;
       font-family: 'Roboto', sans-serif;
-      font-size: 15px;
+      font-size: 17px;
     }
     hr {
       border-top: 2px solid #5F9EA0;
