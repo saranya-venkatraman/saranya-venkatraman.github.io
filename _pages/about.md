@@ -8,10 +8,6 @@ redirect_from:
 <html lang="en">
 <head>
   <style>
-   body {
-      color: #333;
-      font-size: 17px;
-    }
     h1 {
       color: #333;
     }
@@ -29,9 +25,7 @@ redirect_from:
     }
     .news-item h3 {
       margin-top: 0;
-      color: #333;
       font-weight: normal;
-      font-size: 17px;
     }
     hr {
       border-top: 2px solid #5F9EA0;
