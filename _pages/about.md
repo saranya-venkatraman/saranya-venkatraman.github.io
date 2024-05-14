@@ -60,23 +60,23 @@ redirect_from:
   </div>
   
   <div class="news-item">
-    <h3><b>Mar 2024</b> - Paper - <a href="https://tngoon.github.io/docs/pubs/Ngoon_etal_2024_CHI.pdf" target="_blank" style="color: #1976d2;">ClassInSight: Designing Conversation Support Tools to Visualize Classroom Discussion for Personalized Teacher Professional Development</a> accepted to CHI 2024</h3>
+    <h3><b>Mar 2024</b> - Paper titled <a href="https://tngoon.github.io/docs/pubs/Ngoon_etal_2024_CHI.pdf" target="_blank" style="color: #1976d2;">ClassInSight: Designing Conversation Support Tools to Visualize Classroom Discussion for Personalized Teacher Professional Development</a> accepted to CHI 2024</h3>
   </div>
   
   <div class="news-item">
-    <h3><b>Feb 2024</b> - Paper on authorship obfuscation using syntactic stylometry - <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank" style="color: #1976d2;">ALISON: Fast and Effective Stylometric Authorship Obfuscation</a> at AAAI 2024</h3>
+    <h3><b>Feb 2024</b> - Paper on authorship obfuscation using syntactic stylometry titled <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank" style="color: #1976d2;">ALISON: Fast and Effective Stylometric Authorship Obfuscation</a> at AAAI 2024</h3>
   </div>
   
   <div class="news-item">
-    <h3><b>Dec 2023</b> - Outstanding Paper Award for - <a href="https://aclanthology.org/2023.emnlp-main.848/" target="_blank" style="color: #1976d2;">The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis</a> at EMNLP 2023</h3>
+    <h3><b>Dec 2023</b> - Outstanding Paper Award for <a href="https://aclanthology.org/2023.emnlp-main.848/" target="_blank" style="color: #1976d2;">The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis</a> at EMNLP 2023</h3>
   </div>
   
   <div class="news-item">
-    <h3><b>Nov 2023</b> - New preprint - <a href="https://arxiv.org/abs/2311.08374" target="_blank" style="color: #1976d2;">A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts</a> is available on arXiv</h3>
+    <h3><b>Nov 2023</b> - New preprint titled <a href="https://arxiv.org/abs/2311.08374" target="_blank" style="color: #1976d2;">A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts</a> is available on arXiv</h3>
   </div>
   
   <div class="news-item">
-    <h3><b>Oct 2023</b> - Tutorial - <a href="https://adauchendu.github.io/Tutorials/" target="_blank" style="color: #1976d2;">Catch Me If You GPT: Tutorial on Deepfake Texts</a> accepted at <a href="https://2024.naacl.org/program/tutorials/" target="_blank" style="color: #1976d2;">NAACL 2024</a></h3>
+    <h3><b>Oct 2023</b> - Tutorial titled <a href="https://adauchendu.github.io/Tutorials/" target="_blank" style="color: #1976d2;">Catch Me If You GPT: Tutorial on Deepfake Texts</a> accepted at <a href="https://2024.naacl.org/program/tutorials/" target="_blank" style="color: #1976d2;">NAACL 2024</a></h3>
   </div>
   
   <div class="news-item">
