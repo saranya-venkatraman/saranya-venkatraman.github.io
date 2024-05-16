@@ -42,6 +42,10 @@ redirect_from:
   <h2 style="color: #5F9EA0;">News</h2>
 
   <div class="news-item">
+    <h3><b>May 2024</b> - Paper on paraphrased text authorship titled <a href="https://arxiv.org/abs/2311.08374" target="_blank" style="color: #1976d2;">A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts</a> accepted in ACL 2024</h3>
+  </div>
+  
+  <div class="news-item">
     <h3><b>Apr 2024</b> - Attended the Women in Cybersecurity Conference <a href="https://www.wicys.org/events/wicys-2024/" target="_blank" style="color: #1976d2;">WiCys</a> in Nashville, TN</h3>
   </div>
   
