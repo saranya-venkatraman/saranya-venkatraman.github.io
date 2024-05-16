@@ -42,7 +42,7 @@ redirect_from:
   <h2 style="color: #5F9EA0;">News</h2>
 
   <div class="news-item">
-    <h3><b>May 2024</b> - Paper on paraphrased text authorship titled <a href="https://arxiv.org/abs/2311.08374" target="_blank" style="color: #1976d2;">A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts</a> accepted in ACL 2024</h3>
+    <h3><b>May 2024</b> - Paper on paraphrased text authorship titled <a href="https://arxiv.org/abs/2311.08374" target="_blank" style="color: #1976d2;">A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts</a> accepted to <em>ACL 2024</em></h3>
   </div>
   
   <div class="news-item">
@@ -54,7 +54,7 @@ redirect_from:
   </div>
   
   <div class="news-item">
-    <h3><b>Mar 2024</b> - Paper on using statistical psycholinguistic features to detect Deepfake Texts - <a href="https://browse.arxiv.org/abs/2310.06202" target="_blank" style="color: #1976d2;">GPT-who: An Information Density-based Machine-Generated Text Detector</a> accepted to NAACL-Findings 2024</h3>
+    <h3><b>Mar 2024</b> - Paper on using statistical psycholinguistic features to detect Deepfake Texts - <a href="https://browse.arxiv.org/abs/2310.06202" target="_blank" style="color: #1976d2;">GPT-who: An Information Density-based Machine-Generated Text Detector</a> accepted to <em>NAACL-Findings 2024</em></h3>
   </div>
   
   <div class="news-item">
@@ -62,11 +62,11 @@ redirect_from:
   </div>
   
   <div class="news-item">
-    <h3><b>Feb 2024</b> - Paper on authorship obfuscation using syntactic stylometry titled <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank" style="color: #1976d2;">ALISON: Fast and Effective Stylometric Authorship Obfuscation</a> at AAAI 2024</h3>
+    <h3><b>Feb 2024</b> - Paper on authorship obfuscation using syntactic stylometry titled <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank" style="color: #1976d2;">ALISON: Fast and Effective Stylometric Authorship Obfuscation</a> at <em>AAAI 2024</em></h3>
   </div>
   
   <div class="news-item">
-    <h3><b>Dec 2023</b> - Outstanding Paper Award for <a href="https://aclanthology.org/2023.emnlp-main.848/" target="_blank" style="color: #1976d2;">The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis</a> at EMNLP 2023</h3>
+    <h3><b>Dec 2023</b> - Outstanding Paper Award for <a href="https://aclanthology.org/2023.emnlp-main.848/" target="_blank" style="color: #1976d2;">The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis</a> at <em>EMNLP 2023</em></h3>
   </div>
   
   <div class="news-item">
@@ -74,11 +74,11 @@ redirect_from:
   </div>
   
   <div class="news-item">
-    <h3><b>Oct 2023</b> - Tutorial titled <a href="https://adauchendu.github.io/Tutorials/" target="_blank" style="color: #1976d2;">Catch Me If You GPT: Tutorial on Deepfake Texts</a> accepted at <a href="https://2024.naacl.org/program/tutorials/" target="_blank" style="color: #1976d2;">NAACL 2024</a></h3>
+    <h3><b>Oct 2023</b> - Tutorial titled <a href="https://adauchendu.github.io/Tutorials/" target="_blank" style="color: #1976d2;">Catch Me If You GPT: Tutorial on Deepfake Texts</a> accepted to <a href="https://2024.naacl.org/program/tutorials/" target="_blank" style="color: #1976d2;"><em>NAACL 2024</em></a></h3>
   </div>
   
   <div class="news-item">
-    <h3><b>May 2023</b> - Paper on evaluation of decoding algorithms titled <a href="https://aclanthology.org/2023.findings-eacl.70/" target="_blank" style="color: #1976d2;">How do decoding algorithms distribute information in dialogue responses?</a> at EACL-Findings 2023</h3>
+    <h3><b>May 2023</b> - Paper on evaluation of decoding algorithms titled <a href="https://aclanthology.org/2023.findings-eacl.70/" target="_blank" style="color: #1976d2;">How do decoding algorithms distribute information in dialogue responses?</a> at <em>EACL-Findings 2023</em></h3>
   </div>
 </body>
 </html>
