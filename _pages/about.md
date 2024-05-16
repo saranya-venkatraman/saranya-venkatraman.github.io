@@ -50,7 +50,7 @@ redirect_from:
   </div>
   
   <div class="news-item">
-    <h3><b>Mar 2024</b> - Won the Graduate Student Award for Excellence in Teaching Support (College of IST, Penn State) 2023-2024 for the course DS 402: <em>"Socially Responsible AI"</em></h3>
+    <h3><b>Mar 2024</b> - Won the Graduate Student Award for Excellence in Teaching Support (College of IST, Penn State) 2023-2024 for the course titled <em>"Socially Responsible Artificial Intelligence"</em></h3>
   </div>
   
   <div class="news-item">
