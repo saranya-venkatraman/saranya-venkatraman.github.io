@@ -40,7 +40,6 @@ redirect_from:
 
      <p align="justify">During my PhD, I have been a research intern at Google, Samsung Research America, and Cadence Design Systems, helping build Reinforcement Learning (RL), NLP, and Machine Learning (ML) solutions for different applications such as dialog-based recommenders, voice assistants, and custom hardware design layouts, respectively.</p>      
   <h2 style="color: #5F9EA0;">News</h2>
-  
   <div class="news-item">
     <h3><b>Jun 2024</b> - New preprint titled <a href="https://arxiv.org/abs/2406.12665" target="_blank" style="color: #1976d2;">CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis
 </a> is available on arXiv</h3>
