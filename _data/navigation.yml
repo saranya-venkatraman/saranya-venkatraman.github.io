@@ -1,11 +1,16 @@
-# main links links
+# main links (each one jumps to a section on the home page)
 main:
-  - title: "Research"
-    url: /research/  
-        
-  - title: "CV"
-    url: /cv/
+  - title: "News"
+    url: /#news
 
-  - title: "Miscellaneous"
-    url: /misc/
-  
+  - title: "Experience"
+    url: /#experience
+
+  - title: "Research"
+    url: /#research
+
+  - title: "Beyond Research"
+    url: /#beyond
+
+  - title: "CV"
+    url: /#cv
