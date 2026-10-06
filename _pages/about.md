@@ -127,7 +127,7 @@ redirect_from:
 
 <div class="job current">
   <div class="job-head"><strong>Applied Scientist, Amazon</strong><span class="job-dates">Feb 2025 - Present</span></div>
-  <p>Building and evaluating agentic AI systems, with a focus on user simulation. Work includes AgenTwin, an end-to-end framework for building agentic twins of mobile shoppers (COLM 2026 Workshop on Agent Behavior).</p>
+  <p>Building and evaluating agentic AI systems, with a focus on user simulation.</p>
 </div>
 <div class="job">
   <div class="job-head"><strong>Research Intern, Google (Google Assistant)</strong><span class="job-dates">May - Aug 2020</span></div>
