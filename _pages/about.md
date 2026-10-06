@@ -103,7 +103,7 @@ redirect_from:
 
 <h2 id="news" class="section-title">News</h2>
 
-<div class="news-item"><p><b>Oct 2026</b> Presenting <em>AgenTwin: An End-to-End Framework for Building Agentic Twins of Mobile Users</em> at the COLM 2026 Workshop on Agent Behavior (Oct 9)</p></div>
+<div class="news-item"><p><b>Oct 2026</b> Presenting <a href="https://cdn.amazon.science/d9/3b/f8deb9734e34a2dd9239f335ac76/scipub-approval152134-48355376-agentwin-an-endtoend-framework-for-building-agentic-twins-of-mobile-users.pdf" target="_blank">AgenTwin: An End-to-End Framework for Building Agentic Twins of Mobile Users</a> at the COLM 2026 Workshop on Agent Behavior</p></div>
 <div class="news-item"><p><b>Feb 2025</b> Joined Amazon as an Applied Scientist</p></div>
 <div class="news-item"><p><b>Jan 2025</b> <a href="https://arxiv.org/abs/2406.12665" target="_blank">CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis</a> accepted to <em>NAACL Findings 2025</em></p></div>
 <div class="news-item"><p><b>Dec 2024</b> Completed my PhD at Penn State University</p></div>
