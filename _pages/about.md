@@ -254,4 +254,4 @@ redirect_from:
 </div>
 
 <h2 id="cv" class="section-title">CV</h2>
-<p>You can <a href="/files/Resume_Saranya_Venkatraman.pdf" target="_blank">download my CV here</a>.</p>
+<p>You can <a href="/files/CV_Venkatraman_Oct_2026.pdf" target="_blank">download my CV here</a>.</p>
