@@ -67,7 +67,7 @@ author_profile: false
 
   .ep-inline p { font-size: 16px !important; line-height: 1.7 !important; margin: 0 0 16px !important; color: #1a1a1a !important; text-align: left !important; }
 
-  .ep-image-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 8px; }
+  .ep-image-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 8px; }
   .ep-image-row img { width: 100%; aspect-ratio: 3 / 4; object-fit: cover; object-position: center top; border-radius: 4px; display: block; margin: 0 !important; }
   .ep-image-row img.ep-img-wide { object-position: 65% center; }
 
@@ -78,7 +78,6 @@ author_profile: false
     .ep-header-row { flex-direction: column; gap: 16px; }
     .ep-photo { width: 88px !important; height: 88px !important; }
     .page__content h1.ep-name { font-size: 40px !important; }
-    .ep-image-row { grid-template-columns: repeat(2, 1fr); }
   }
 </style>
 
@@ -156,20 +155,6 @@ author_profile: false
     <a class="ep-view-all" href="https://scholar.google.com/citations?user=qrvxwt4AAAAJ&amp;hl=en" target="_blank" rel="noopener">All publications on Google Scholar →</a>
   </section>
 
-  <section class="ep-section" aria-labelledby="tut-label">
-    <h2 class="ep-section-label" id="tut-label">Tutorials</h2>
-    <ul class="ep-list">
-      <li>
-        <a class="ep-item-title" href="https://adauchendu.github.io/Tutorials/" target="_blank" rel="noopener">Catch Me If You GPT: Tutorial on Deepfake Texts</a>
-        <p class="ep-item-meta">NAACL 2024</p>
-      </li>
-      <li>
-        <a class="ep-item-title" href="https://artificial-text-detection.github.io/ATD_Tutorial.pdf" target="_blank" rel="noopener">Tutorial on Artificial Text Detection</a>
-        <p class="ep-item-meta">INLG 2022</p>
-      </li>
-    </ul>
-  </section>
-
   <section class="ep-section" aria-labelledby="exp-label">
     <h2 class="ep-section-label" id="exp-label">Experience</h2>
     <ul class="ep-list">
@@ -199,14 +184,27 @@ author_profile: false
   <section class="ep-section" aria-labelledby="beyond-label">
     <h2 class="ep-section-label" id="beyond-label">Misc.</h2>
     <div class="ep-inline">
-      <p>Outside work, I run, bike, snowboard, and collect vinyl records. In another life, I sang Indian Classical music and a cappella.</p>
+      <p>Outside work, I run, snowboard, and collect vinyl records. In another life, I sang Indian Classical music and a cappella.</p>
     </div>
     <div class="ep-image-row">
       <img src="/images/running.png" alt="Running">
-      <img src="/images/biking.png" alt="Biking">
       <img src="/images/snowboard2.jpg" alt="Snowboarding">
       <img class="ep-img-wide" src="/images/vinyl.png" alt="Vinyl records">
     </div>
+  </section>
+
+  <section class="ep-section" aria-labelledby="tut-label">
+    <h2 class="ep-section-label" id="tut-label">Tutorials</h2>
+    <ul class="ep-list">
+      <li>
+        <a class="ep-item-title" href="https://adauchendu.github.io/Tutorials/" target="_blank" rel="noopener">Catch Me If You GPT: Tutorial on Deepfake Texts</a>
+        <p class="ep-item-meta">NAACL 2024</p>
+      </li>
+      <li>
+        <a class="ep-item-title" href="https://artificial-text-detection.github.io/ATD_Tutorial.pdf" target="_blank" rel="noopener">Tutorial on Artificial Text Detection</a>
+        <p class="ep-item-meta">INLG 2022</p>
+      </li>
+    </ul>
   </section>
 
   <footer class="ep-footer">© 2026 Saranya Venkatraman</footer>
