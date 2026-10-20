@@ -68,7 +68,8 @@ author_profile: false
   .ep-inline p { font-size: 16px !important; line-height: 1.7 !important; margin: 0 0 16px !important; color: #1a1a1a !important; text-align: left !important; }
 
   .ep-image-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-top: 8px; }
-  .ep-image-row img { width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 4px; display: block; }
+  .ep-image-row img { width: 100%; aspect-ratio: 3 / 4; object-fit: cover; object-position: center top; border-radius: 4px; display: block; margin: 0 !important; }
+  .ep-image-row img.ep-img-wide { object-position: 65% center; }
 
   .ep-footer { color: #6b6b6b; font-size: 13px; border-top: 1px solid #e0dbd6; margin-top: 64px; padding-top: 24px; }
 
@@ -196,16 +197,15 @@ author_profile: false
   </section>
 
   <section class="ep-section" aria-labelledby="beyond-label">
-    <h2 class="ep-section-label" id="beyond-label">Beyond research</h2>
+    <h2 class="ep-section-label" id="beyond-label">Misc.</h2>
     <div class="ep-inline">
-      <p><strong>Support for students.</strong> As a first-generation student, I know college and graduate school bring challenges that aren't always visible to others, from financial concerns to simply feeling out of place. I've also navigated advisor transitions during my PhD; James McLaughlin's post <a href="https://www.jfmclaughlin.org/blog/when-your-advisor-leaves">"When your advisor leaves"</a> is a useful starting point if you're in a similar situation. If you're facing any of these challenges, feel free to reach out by email. I'm happy to help.</p>
-      <p><strong>Other interests.</strong> In my free time, I enjoy running, biking, snowboarding, and listening to and collecting vinyl records. In another life, I was a singer trained in Indian Classical Vocals and part of an a cappella group.</p>
+      <p>Outside work, I run, bike, snowboard, and collect vinyl records. In another life, I sang Indian Classical music and a cappella.</p>
     </div>
     <div class="ep-image-row">
       <img src="/images/running.png" alt="Running">
       <img src="/images/biking.png" alt="Biking">
-      <img src="/images/snowboard1.png" alt="Snowboarding">
-      <img src="/images/vinyl.png" alt="Vinyl records">
+      <img src="/images/snowboard2.jpg" alt="Snowboarding">
+      <img class="ep-img-wide" src="/images/vinyl.png" alt="Vinyl records">
     </div>
   </section>
 
