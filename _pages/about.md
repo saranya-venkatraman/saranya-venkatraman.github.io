@@ -61,6 +61,8 @@ author_profile: false
   .page__content p.ep-item-meta a { color: #1a3a52 !important; text-decoration: none !important; font-weight: 600; }
   .page__content p.ep-item-meta a:hover { text-decoration: underline !important; }
   .ep-award { color: #9a5b13; font-weight: 600; }
+  .page__content a.ep-view-all { color: #1a3a52 !important; text-decoration: none !important; font-weight: 600; font-size: 14px; display: inline-block; margin-top: 2px; }
+  .page__content a.ep-view-all:hover { text-decoration: underline !important; text-underline-offset: 2px; }
   .ep-dot { color: #b5b0aa; margin: 0 4px; }
 
   .ep-inline p { font-size: 16px !important; line-height: 1.7 !important; margin: 0 0 16px !important; color: #1a1a1a !important; text-align: left !important; }
@@ -113,58 +115,44 @@ author_profile: false
 
   <div class="ep-bio">
     <p>I'm an Applied Scientist at Amazon, where I build and evaluate agentic AI systems. My current work focuses on <em>user simulation</em>: building agentic "twins" of users. I completed my PhD at Penn State University, advised by <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a> in the <a href="https://pike.psu.edu/index.html">PIKE research group</a>, and was a Visiting Scholar at New York University in <a href="https://hhexiy.github.io">Prof. He He</a>'s group. My PhD research focused on <em>machine-generated text detection, authorship attribution, and obfuscation</em> for Large Language Models (LLMs), and on what does or doesn't make LLM-generated text "human-like."</p>
-    <p>Along the way, I was a research intern at Google, Samsung Research America, and Cadence Design Systems, building RL, NLP, and ML solutions for dialogue-based recommenders, voice assistants, and hardware design layouts. I'm broadly curious about cognitively plausible architectures for language applications, and always happy to connect.</p>
+    <p>Along the way, I was a research intern at Google, Samsung, and Cadence, building RL, NLP, and ML solutions for dialogue-based recommenders, voice assistants, and hardware design layouts. I'm broadly curious about cognitively plausible architectures for language applications, and always happy to connect.</p>
   </div>
 
   <section class="ep-section" aria-labelledby="pubs-label">
-    <h2 class="ep-section-label" id="pubs-label">Publications</h2>
+    <h2 class="ep-section-label" id="pubs-label">Selected publications</h2>
     <ul class="ep-list">
       <li>
         <a class="ep-item-title" href="https://cdn.amazon.science/d9/3b/f8deb9734e34a2dd9239f335ac76/scipub-approval152134-48355376-agentwin-an-endtoend-framework-for-building-agentic-twins-of-mobile-users.pdf" target="_blank" rel="noopener">AgenTwin: An End-to-End Framework for Building Agentic Twins of Mobile Users</a>
         <p class="ep-item-summary"><strong>Saranya Venkatraman</strong>, Thanh Tran, Shunyan Luo, Devin Chen, Yuning Wu, Kai Wei, Allie Colin, Guido Imbens, Ido Rosen, Christine Ambrose</p>
-        <p class="ep-item-meta">COLM 2026 Workshop on Agent Behavior</p>
+        <p class="ep-item-meta">COLM 2026 Workshop on Agent Behavior<span class="ep-dot">·</span><a href="https://cdn.amazon.science/d9/3b/f8deb9734e34a2dd9239f335ac76/scipub-approval152134-48355376-agentwin-an-endtoend-framework-for-building-agentic-twins-of-mobile-users.pdf" target="_blank" rel="noopener">PDF</a></p>
       </li>
       <li>
         <a class="ep-item-title" href="https://arxiv.org/abs/2406.12665" target="_blank" rel="noopener">CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis</a>
         <p class="ep-item-summary"><strong>Saranya Venkatraman</strong>, Nafis Irtiza Tripto, Dongwon Lee</p>
-        <p class="ep-item-meta">NAACL Findings 2025<span class="ep-dot">·</span><a href="https://github.com/saranya-venkatraman/multi_llm_story_writing">Code</a></p>
+        <p class="ep-item-meta">NAACL Findings 2025<span class="ep-dot">·</span><a href="https://arxiv.org/pdf/2406.12665" target="_blank" rel="noopener">PDF</a><span class="ep-dot">·</span><a href="https://github.com/saranya-venkatraman/multi_llm_story_writing">Code</a></p>
       </li>
       <li>
         <a class="ep-item-title" href="https://arxiv.org/pdf/2310.06202.pdf" target="_blank" rel="noopener">GPT-who: An Information Density-based Machine-Generated Text Detector</a>
         <p class="ep-item-summary"><strong>Saranya Venkatraman</strong>, Adaku Uchendu, Dongwon Lee</p>
-        <p class="ep-item-meta">NAACL Findings 2024<span class="ep-dot">·</span><a href="https://github.com/saranya-venkatraman/gpt-who">Code</a></p>
+        <p class="ep-item-meta">NAACL Findings 2024<span class="ep-dot">·</span><a href="https://arxiv.org/pdf/2310.06202" target="_blank" rel="noopener">PDF</a><span class="ep-dot">·</span><a href="https://github.com/saranya-venkatraman/gpt-who">Code</a></p>
       </li>
       <li>
         <a class="ep-item-title" href="https://arxiv.org/pdf/2311.08374" target="_blank" rel="noopener">A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts</a>
         <p class="ep-item-summary">Nafis Irtiza Tripto, <strong>Saranya Venkatraman</strong>, Dominik Macko, Robert Moro, Ivan Srba, Adaku Uchendu, Thai Le, Dongwon Lee</p>
-        <p class="ep-item-meta">ACL 2024</p>
+        <p class="ep-item-meta">ACL 2024<span class="ep-dot">·</span><a href="https://arxiv.org/pdf/2311.08374" target="_blank" rel="noopener">PDF</a></p>
       </li>
       <li>
         <a class="ep-item-title" href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank" rel="noopener">ALISON: Fast and Effective Stylometric Authorship Obfuscation</a>
         <p class="ep-item-summary">Eric Xing, <strong>Saranya Venkatraman</strong>, Thai Le, Dongwon Lee</p>
-        <p class="ep-item-meta">AAAI 2024<span class="ep-dot">·</span><a href="https://github.com/ericx003/alison">Code</a></p>
+        <p class="ep-item-meta">AAAI 2024<span class="ep-dot">·</span><a href="https://arxiv.org/pdf/2402.00835" target="_blank" rel="noopener">PDF</a><span class="ep-dot">·</span><a href="https://github.com/ericx003/alison">Code</a></p>
       </li>
       <li>
         <a class="ep-item-title" href="https://tngoon.github.io/docs/pubs/Ngoon_etal_2024_CHI.pdf" target="_blank" rel="noopener">ClassInSight: Designing Conversation Support Tools to Visualize Classroom Discussion for Personalized Teacher Professional Development</a>
         <p class="ep-item-summary">Tricia J Ngoon, S Sushil, Angela Stewart, Ung-Sang Lee, <strong>Saranya Venkatraman</strong>, Neil Thawani, Prasenjit Mitra, Sherice Clarke, John Zimmerman, Amy Ogan</p>
-        <p class="ep-item-meta">CHI 2024</p>
-      </li>
-      <li>
-        <a class="ep-item-title" href="https://aclanthology.org/2023.emnlp-main.848/" target="_blank" rel="noopener">The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis</a>
-        <p class="ep-item-summary">Pranav Narayanan Venkit*, Mukund Srinath*, Sanjana Gautam, <strong>Saranya Venkatraman</strong>, Vipul Gupta, Rebecca J Passonneau, Shomir Wilson</p>
-        <p class="ep-item-meta">EMNLP 2023<span class="ep-dot">·</span><span class="ep-award">Outstanding Paper Award</span><span class="ep-dot">·</span><a href="https://github.com/PranavNV/The-Sentiment-Problem/tree/main">Data</a></p>
-      </li>
-      <li>
-        <a class="ep-item-title" href="https://aclanthology.org/2023.findings-eacl.70/" target="_blank" rel="noopener">How do decoding algorithms distribute information in dialogue responses?</a>
-        <p class="ep-item-summary"><strong>Saranya Venkatraman</strong>, He He, David Reitter</p>
-        <p class="ep-item-meta">EACL Findings 2023<span class="ep-dot">·</span><a href="https://huggingface.co/datasets/saranya132/dialog_uid_gpt2">Dataset</a></p>
-      </li>
-      <li>
-        <a class="ep-item-title" href="/files/BOA-2021.pdf" target="_blank" rel="noopener">ClassInSight: Automating Analysis of Classroom Dialogue to Support Teacher Noticing and Reflection</a>
-        <p class="ep-item-summary"><strong>Saranya Venkatraman</strong>, Prasenjit Mitra, Sherice N. Clarke, Andrea Gomoll, Zaynab Gates, Sushil S, Tarang Tripathi, Amy Ogan</p>
-        <p class="ep-item-meta">EARLI 2021<span class="ep-dot">·</span><a href="https://github.com/saranya-venkatraman/classinsight-language">Code</a></p>
+        <p class="ep-item-meta">CHI 2024<span class="ep-dot">·</span><a href="https://tngoon.github.io/docs/pubs/Ngoon_etal_2024_CHI.pdf" target="_blank" rel="noopener">PDF</a></p>
       </li>
     </ul>
+    <a class="ep-view-all" href="https://scholar.google.com/citations?user=qrvxwt4AAAAJ&amp;hl=en" target="_blank" rel="noopener">All publications on Google Scholar →</a>
   </section>
 
   <section class="ep-section" aria-labelledby="tut-label">
