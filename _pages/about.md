@@ -9,80 +9,73 @@ redirect_from:
 ---
 <style>
   :root {
-    --teal: #5F9EA0;
-    --teal-dark: #2E6B6E;
-    --teal-tint: #EAF4F4;
-    --link: #2F5DA8;
-    --gold: #B7791F;
-    --gold-tint: #FCF1D8;
-    --line: #DCE9E9;
+    --accent: #374151;
+    --accent-light: #f3f4f6;
+    --accent-mid: #6b7280;
+    --link: #374151;
+    --highlight-bg: #fefce8;
+    --highlight-text: #92400e;
+    --line: #e5e7eb;
   }
   html { scroll-behavior: smooth; }
   @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
 
-  .page__content a { color: var(--link); text-decoration: none; }
-  .page__content a:hover { text-decoration: underline; }
-  .page__content a:focus-visible { outline: 2px solid var(--teal); outline-offset: 2px; }
+  .page__content a { color: var(--link); text-decoration: none; border-bottom: 1px solid var(--line); }
+  .page__content a:hover { border-bottom-color: var(--accent); }
+  .page__content a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
   .intro p {
     text-align: justify;
-    background: var(--teal-tint);
-    border-left: 4px solid var(--teal);
-    border-radius: 0 8px 8px 0;
+    background: var(--accent-light);
+    border-left: 3px solid var(--accent-mid);
+    border-radius: 0 6px 6px 0;
     padding: 16px 20px;
   }
 
   .page__content h2.section-title {
-    color: var(--teal-dark);
-    border-bottom: 3px solid var(--teal);
+    color: #1f2937;
+    border-bottom: 2px solid var(--line);
     padding-bottom: 6px;
     margin-top: 2.5em;
     scroll-margin-top: 80px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
   }
-  .page__content h3.subsection { color: var(--teal-dark); margin-top: 1.5em; font-size: 1.05em; }
+  .page__content h3.subsection { color: #1f2937; margin-top: 1.5em; font-size: 1.05em; }
 
-  .news-item { margin-bottom: 10px; display: flex; gap: 10px; align-items: baseline; }
-  .news-item p { margin: 0; font-size: 0.95em; }
-  .news-item b {
-    display: inline-block; white-space: nowrap;
-    background: var(--teal); color: #fff;
-    font-size: 0.8em; font-weight: 600;
-    padding: 1px 8px; border-radius: 10px; margin-right: 6px;
-  }
-  details.more-news summary { cursor: pointer; color: var(--teal-dark); margin: 12px 0; font-weight: bold; }
-  details.more-news .news-item b { background: var(--teal-tint); color: var(--teal-dark); }
 
   .job {
     background: #fff;
     border: 1px solid var(--line);
-    border-left: 4px solid var(--teal);
-    border-radius: 0 8px 8px 0;
+    border-left: 3px solid var(--accent-mid);
+    border-radius: 0 6px 6px 0;
     padding: 12px 16px;
     margin-bottom: 12px;
   }
-  .job.current { background: var(--teal-tint); }
+  .job.current { background: var(--accent-light); }
   .job-head { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 4px 16px; align-items: baseline; }
-  .job-head strong { font-size: 1.05em; color: var(--teal-dark); }
-  .job-dates { color: var(--teal-dark); font-size: 0.85em; }
+  .job-head strong { font-size: 1.05em; color: #1f2937; }
+  .job-dates { color: var(--accent-mid); font-size: 0.85em; }
   .job p { margin: 6px 0 0; font-size: 0.95em; }
 
   .pub { display: flex; gap: 20px; align-items: center; padding: 18px 0; border-bottom: 1px solid var(--line); }
   .pub-img { flex: 0 0 34%; }
-  .pub-img img { max-width: 100%; height: auto; border-radius: 6px; box-shadow: 0 1px 4px rgba(46,107,110,0.25); }
+  .pub-img img { max-width: 100%; height: auto; border-radius: 6px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
   .pub-text { flex: 1; font-size: 0.95em; line-height: 1.5; }
-  .pub-text .title { font-weight: bold; font-size: 1.05em; display: block; margin-bottom: 4px; color: #222; }
+  .pub-text .title { font-weight: 600; font-size: 1.05em; display: block; margin-bottom: 4px; color: #1f2937; }
   .venue, .award {
     display: inline-block; font-size: 0.8em; font-weight: 600;
     padding: 1px 8px; border-radius: 10px; margin: 4px 4px 4px 0;
   }
-  .venue { background: var(--teal-tint); color: var(--teal-dark); }
-  .award { background: var(--gold-tint); color: var(--gold); }
+  .venue { background: var(--accent-light); color: var(--accent); }
+  .award { background: var(--highlight-bg); color: var(--highlight-text); }
   .pub-text > a {
     display: inline-block; font-size: 0.85em; font-weight: 600;
-    border: 1px solid var(--link); border-radius: 4px;
+    border: 1px solid var(--accent); border-radius: 4px;
     padding: 0 6px; margin: 2px 6px 0 0;
+    border-bottom: 1px solid var(--accent);
   }
-  .pub-text > a:hover { background: var(--link); color: #fff; text-decoration: none; }
+  .pub-text > a:hover { background: var(--accent); color: #fff; text-decoration: none; border-bottom-color: var(--accent); }
 
   ul.tutorials { list-style: none; margin-left: 0; padding-left: 0; }
   ul.tutorials li { margin-bottom: 8px; }
@@ -101,27 +94,7 @@ redirect_from:
 <p>Hello! I'm an Applied Scientist at Amazon, where I build and evaluate agentic AI systems. My current work focuses on <em>user simulation</em>: building agentic "twins" of users. I completed my PhD at Penn State University, advised by <a href="https://pike.psu.edu/dongwon/" target="_blank">Prof. Dongwon Lee</a> in the <a href="https://pike.psu.edu/index.html" target="_blank">PIKE research group</a>, and was a Visiting Scholar at New York University in <a href="https://hhexiy.github.io" target="_blank">Prof. He He</a>'s group. My PhD research focused on <em>machine-generated text detection, authorship attribution, and obfuscation</em> for Large Language Models (LLMs), and on what does or doesn't make LLM-generated text "human-like." Along the way, I was a research intern at Google, Samsung Research America, and Cadence Design Systems, building RL, NLP, and ML solutions for dialogue-based recommenders, voice assistants, and hardware design layouts. I'm broadly curious about cognitively plausible architectures for language applications, and always happy to connect.</p>
 </div>
 
-<h2 id="news" class="section-title">News</h2>
 
-<div class="news-item"><p><b>Oct 2026</b> Presenting <a href="https://cdn.amazon.science/d9/3b/f8deb9734e34a2dd9239f335ac76/scipub-approval152134-48355376-agentwin-an-endtoend-framework-for-building-agentic-twins-of-mobile-users.pdf" target="_blank">AgenTwin: An End-to-End Framework for Building Agentic Twins of Mobile Users</a> at the COLM 2026 Workshop on Agent Behavior</p></div>
-<div class="news-item"><p><b>Feb 2025</b> Joined Amazon as an Applied Scientist</p></div>
-<div class="news-item"><p><b>Jan 2025</b> <a href="https://arxiv.org/abs/2406.12665" target="_blank">CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis</a> accepted to <em>NAACL Findings 2025</em></p></div>
-<div class="news-item"><p><b>Dec 2024</b> Completed my PhD at Penn State University</p></div>
-
-<details class="more-news">
-<summary>Earlier news</summary>
-<div class="news-item"><p><b>Jun 2024</b> New preprint titled <a href="https://arxiv.org/abs/2406.12665" target="_blank">CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis</a> is available on arXiv</p></div>
-<div class="news-item"><p><b>May 2024</b> Paper on paraphrased text authorship titled <a href="https://arxiv.org/abs/2311.08374" target="_blank">A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts</a> accepted to <em>ACL 2024</em></p></div>
-<div class="news-item"><p><b>Apr 2024</b> Attended the Women in Cybersecurity Conference <a href="https://www.wicys.org/events/wicys-2024/" target="_blank">WiCyS</a> in Nashville, TN</p></div>
-<div class="news-item"><p><b>Mar 2024</b> Won the Graduate Student Award for Excellence in Teaching Support (College of IST, Penn State) 2023-2024 for the course <em>"Socially Responsible Artificial Intelligence"</em></p></div>
-<div class="news-item"><p><b>Mar 2024</b> Paper on using statistical psycholinguistic features to detect Deepfake Texts, <a href="https://browse.arxiv.org/abs/2310.06202" target="_blank">GPT-who: An Information Density-based Machine-Generated Text Detector</a>, accepted to <em>NAACL Findings 2024</em></p></div>
-<div class="news-item"><p><b>Mar 2024</b> Paper titled <a href="https://tngoon.github.io/docs/pubs/Ngoon_etal_2024_CHI.pdf" target="_blank">ClassInSight: Designing Conversation Support Tools to Visualize Classroom Discussion for Personalized Teacher Professional Development</a> accepted to <em>CHI 2024</em></p></div>
-<div class="news-item"><p><b>Feb 2024</b> Paper on authorship obfuscation using syntactic stylometry titled <a href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank">ALISON: Fast and Effective Stylometric Authorship Obfuscation</a> at <em>AAAI 2024</em></p></div>
-<div class="news-item"><p><b>Dec 2023</b> Outstanding Paper Award for <a href="https://aclanthology.org/2023.emnlp-main.848/" target="_blank">The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis</a> at <em>EMNLP 2023</em></p></div>
-<div class="news-item"><p><b>Nov 2023</b> New preprint titled <a href="https://arxiv.org/abs/2311.08374" target="_blank">A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts</a> is available on arXiv</p></div>
-<div class="news-item"><p><b>Oct 2023</b> Tutorial titled <a href="https://adauchendu.github.io/Tutorials/" target="_blank">Catch Me If You GPT: Tutorial on Deepfake Texts</a> accepted to <a href="https://2024.naacl.org/program/tutorials/" target="_blank"><em>NAACL 2024</em></a></p></div>
-<div class="news-item"><p><b>May 2023</b> Paper on evaluation of decoding algorithms titled <a href="https://aclanthology.org/2023.findings-eacl.70/" target="_blank">How do decoding algorithms distribute information in dialogue responses?</a> at <em>EACL Findings 2023</em></p></div>
-</details>
 
 <h2 id="experience" class="section-title">Experience</h2>
 

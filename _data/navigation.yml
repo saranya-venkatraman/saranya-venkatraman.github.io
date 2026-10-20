@@ -1,8 +1,5 @@
 # main links (each one jumps to a section on the home page)
 main:
-  - title: "News"
-    url: /#news
-
   - title: "Experience"
     url: /#experience
 
