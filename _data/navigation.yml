@@ -1,13 +1,2 @@
-# main links (each one jumps to a section on the home page)
-main:
-  - title: "Experience"
-    url: /#experience
-
-  - title: "Research"
-    url: /#research
-
-  - title: "Beyond Research"
-    url: /#beyond
-
-  - title: "CV"
-    url: /#cv
+# No top navigation — all links are inline on the page
+main: []

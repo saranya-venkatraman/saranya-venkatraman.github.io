@@ -14,8 +14,8 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "Inter", -apple-system, "San Francisco", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-$monospace                  : "JetBrains Mono", Monaco, Consolas, "Lucida Console", monospace;
+$sans-serif                 : -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -102,11 +102,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $dark-gray;
-$link-color-hover           : #111827;
-$link-color-visited         : $gray;
-$masthead-link-color        : $dark-gray;
-$masthead-link-color-hover  : #111827;
+$link-color                 : #1a0dab;
+$link-color-hover           : #1a0dab;
+$link-color-visited         : #609;
+$masthead-link-color        : #333;
+$masthead-link-color-hover  : #111;
 
 
 /*
@@ -158,8 +158,8 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 6px;
-$box-shadow                 : 0 1px 3px rgba(0, 0, 0, 0.06);
+$border-radius              : 3px;
+$box-shadow                 : none;
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
