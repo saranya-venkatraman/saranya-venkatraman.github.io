@@ -67,7 +67,7 @@ author_profile: false
 
   .ep-inline p { font-size: 16px !important; line-height: 1.7 !important; margin: 0 0 16px !important; color: #1a1a1a !important; text-align: left !important; }
 
-  .ep-image-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 8px; }
+  .ep-image-row { display: grid; grid-template-columns: repeat(3, minmax(0, 140px)); gap: 10px; margin-top: 8px; }
   .ep-image-row img { width: 100%; aspect-ratio: 3 / 4; object-fit: cover; object-position: center top; border-radius: 4px; display: block; margin: 0 !important; }
   .ep-image-row img.ep-img-wide { object-position: 65% center; }
 
@@ -181,18 +181,6 @@ author_profile: false
     </ul>
   </section>
 
-  <section class="ep-section" aria-labelledby="beyond-label">
-    <h2 class="ep-section-label" id="beyond-label">Misc.</h2>
-    <div class="ep-inline">
-      <p>Outside work, I run, snowboard, and collect vinyl records. In another life, I sang Indian Classical music and a cappella.</p>
-    </div>
-    <div class="ep-image-row">
-      <img src="/images/running.png" alt="Running">
-      <img src="/images/snowboard2.jpg" alt="Snowboarding">
-      <img class="ep-img-wide" src="/images/vinyl.png" alt="Vinyl records">
-    </div>
-  </section>
-
   <section class="ep-section" aria-labelledby="tut-label">
     <h2 class="ep-section-label" id="tut-label">Tutorials</h2>
     <ul class="ep-list">
@@ -205,6 +193,18 @@ author_profile: false
         <p class="ep-item-meta">INLG 2022</p>
       </li>
     </ul>
+  </section>
+
+  <section class="ep-section" aria-labelledby="beyond-label">
+    <h2 class="ep-section-label" id="beyond-label">Misc.</h2>
+    <div class="ep-inline">
+      <p>Outside work, I run, snowboard, and collect vinyl records. In another life, I sang Indian Classical music and a cappella.</p>
+    </div>
+    <div class="ep-image-row">
+      <img src="/images/running.png" alt="Running">
+      <img src="/images/snowboard2.jpg" alt="Snowboarding">
+      <img class="ep-img-wide" src="/images/vinyl.png" alt="Vinyl records">
+    </div>
   </section>
 
   <footer class="ep-footer">© 2026 Saranya Venkatraman</footer>
