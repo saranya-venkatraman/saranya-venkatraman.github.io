@@ -3,16 +3,16 @@ permalink: /
 author_profile: false
 ---
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Playfair+Display:wght@400&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap');
 
   /* ---------- Reset the theme chrome on this page ---------- */
   .masthead, .page__footer, .page__inner-wrap > header, .page__meta { display: none !important; }
   html, body { background: #f4f7fc !important; }
-  body { padding: 0 !important; margin: 0 !important; color: #1a1a1a; font-family: Lato, Arial, Tahoma, sans-serif !important; }
+  body { padding: 0 !important; margin: 0 !important; color: #1a1a1a; font-family: Manrope, -apple-system, "Segoe UI", Arial, sans-serif !important; }
   #main { max-width: none !important; width: 100% !important; margin: 0 !important; padding: 0 !important; }
   .page { float: none !important; width: 100% !important; padding: 0 !important; margin: 0 !important; }
   .page__inner-wrap, .page__content { margin: 0 !important; padding: 0 !important; }
-  .page__content { font-family: Lato, Arial, Tahoma, sans-serif !important; font-size: 16px !important; color: #1a1a1a; }
+  .page__content { font-family: Manrope, -apple-system, "Segoe UI", Arial, sans-serif !important; font-size: 16px !important; color: #1a1a1a; }
   .page__content a { border: none !important; }
 
   /* ---------- Top bar ---------- */
@@ -26,11 +26,11 @@ author_profile: false
   .sv-topbar a:hover, .sv-topbar a.active { color: #1a3a52 !important; }
 
   /* ---------- Main column ---------- */
-  .sv-wrap { max-width: 680px; margin: 0 auto; padding: 48px 24px 20px; box-sizing: border-box; }
+  .sv-wrap { max-width: 780px; margin: 0 auto; padding: 48px 24px 20px; box-sizing: border-box; }
   .sv-header-row { display: flex; align-items: flex-start; gap: 24px; margin-bottom: 44px; }
   .sv-photo { width: 96px !important; height: 96px !important; border-radius: 50%; object-fit: cover; flex-shrink: 0; display: block; margin: 0 !important; }
   .sv-header-text { flex: 1 1 0%; min-width: 0; }
-  .page__content h1.sv-name { font-family: "Playfair Display", Georgia, serif !important; font-size: 48px !important; font-weight: 400 !important; color: #1a1a1a !important; letter-spacing: -0.02em; line-height: 1.1 !important; margin: 0 0 8px !important; padding: 0 !important; border: none !important; }
+  .page__content h1.sv-name { font-family: Manrope, -apple-system, "Segoe UI", Arial, sans-serif !important; font-size: 36px !important; font-weight: 700 !important; color: #1a1a1a !important; letter-spacing: -0.01em; line-height: 1.1 !important; margin: 0 0 8px !important; padding: 0 !important; border: none !important; }
   .page__content p.sv-role { font-size: 14px !important; color: #5e5e5e !important; margin: 0 0 12px !important; line-height: 1.5 !important; }
   .page__content p.sv-role strong { font-weight: 600; color: #3d3d3d; }
   ul.sv-social { display: flex; align-items: center; list-style: none; margin: 0 !important; padding: 0 !important; }
@@ -49,7 +49,7 @@ author_profile: false
   /* ---------- Sections ---------- */
   .sv-bio + .sv-section { margin-top: 40px; }
   .sv-section + .sv-section { margin-top: 40px; }
-  .page__content h2.sv-section-label { font-family: Lato, Arial, sans-serif !important; font-size: 11px !important; font-weight: 600 !important; text-transform: uppercase; letter-spacing: 0.12em; color: #5e5e5e !important; margin: 0 0 16px !important; padding: 0 0 14px !important; border: none !important; border-bottom: 1px solid #e0dbd6 !important; line-height: 1.5 !important; }
+  .page__content h2.sv-section-label { font-family: Manrope, -apple-system, "Segoe UI", Arial, sans-serif !important; font-size: 11px !important; font-weight: 600 !important; text-transform: uppercase; letter-spacing: 0.12em; color: #5e5e5e !important; margin: 0 0 16px !important; padding: 0 0 14px !important; border: none !important; border-bottom: 1px solid #e0dbd6 !important; line-height: 1.5 !important; }
   ul.sv-list { list-style: none !important; padding: 0 !important; margin: 0 !important; }
   ul.sv-list > li { margin: 0 0 18px !important; padding: 0 !important; list-style: none !important; }
   ul.sv-list > li::marker { content: none; }
@@ -84,7 +84,7 @@ author_profile: false
     ul.sv-list > li.sv-pub { gap: 12px; }
     .page__content a.sv-thumb { flex-basis: 84px; width: 84px; height: 60px; }
     .sv-photo { width: 88px !important; height: 88px !important; }
-    .page__content h1.sv-name { font-size: 40px !important; }
+    .page__content h1.sv-name { font-size: 30px !important; }
   }
 </style>
 
