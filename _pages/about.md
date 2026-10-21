@@ -54,15 +54,15 @@ author_profile: false
   ul.sv-list > li { margin: 0 0 18px !important; padding: 0 !important; list-style: none !important; }
   ul.sv-list > li::marker { content: none; }
   .page__content .sv-item-title, .page__content a.sv-item-title { color: #1a1a1a !important; text-decoration: none !important; font-weight: 500; font-size: 15px; line-height: 1.73; }
+  .page__content .sv-item-title strong { font-weight: 700; }
   .page__content a.sv-item-title:hover { color: #1a3a52 !important; text-decoration: underline !important; text-underline-offset: 2px; }
   .page__content p.sv-item-summary { color: #737e86 !important; font-size: 16px !important; line-height: 1.625 !important; margin: 2px 0 0 !important; }
-  .page__content p.sv-item-summary strong { color: #3d3d3d; font-weight: 700; }
   .page__content p.sv-item-meta { color: #5e5e5e !important; font-size: 13px !important; margin: 4px 0 0 !important; line-height: 1.5 !important; }
   .page__content p.sv-item-meta a { color: #1a3a52 !important; text-decoration: none !important; font-weight: 500; }
   .page__content p.sv-item-meta a:hover { text-decoration: underline !important; }
   /* Paper thumbnails */
   ul.sv-list > li.sv-pub { display: flex; gap: 16px; align-items: flex-start; }
-  .page__content a.sv-thumb { flex: 0 0 120px; width: 120px; height: 80px; display: block; background: #fff; border: 1px solid #e3e7ee; border-radius: 4px; overflow: hidden; margin-top: 4px; }
+  .page__content a.sv-thumb { flex: 0 0 150px; width: 150px; height: 100px; display: block; background: #fff; border: 1px solid #e3e7ee; border-radius: 4px; overflow: hidden; margin-top: 4px; }
   .sv-thumb img { width: 100% !important; height: 100% !important; object-fit: contain; padding: 4px; box-sizing: border-box; display: block; margin: 0 !important; }
   .sv-pub-body { flex: 1 1 0%; min-width: 0; }
   .sv-award { color: #9a5b13; font-weight: 600; }
@@ -82,7 +82,7 @@ author_profile: false
     .sv-topbar a { padding: 0 12px; }
     .sv-header-row { flex-direction: column; gap: 16px; }
     ul.sv-list > li.sv-pub { gap: 12px; }
-    .page__content a.sv-thumb { flex-basis: 84px; width: 84px; height: 60px; }
+    .page__content a.sv-thumb { flex-basis: 100px; width: 100px; height: 68px; }
     .sv-photo { width: 88px !important; height: 88px !important; }
     .page__content h1.sv-name { font-size: 30px !important; }
   }
@@ -131,48 +131,48 @@ author_profile: false
       <li class="sv-pub">
         <a class="sv-thumb" href="https://cdn.amazon.science/d9/3b/f8deb9734e34a2dd9239f335ac76/scipub-approval152134-48355376-agentwin-an-endtoend-framework-for-building-agentic-twins-of-mobile-users.pdf" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src="/images/agentwin.png" alt="" loading="lazy"></a>
         <div class="sv-pub-body">
-          <a class="sv-item-title" href="https://cdn.amazon.science/d9/3b/f8deb9734e34a2dd9239f335ac76/scipub-approval152134-48355376-agentwin-an-endtoend-framework-for-building-agentic-twins-of-mobile-users.pdf" target="_blank" rel="noopener">AgenTwin: An End-to-End Framework for Building Agentic Twins of Mobile Users</a>
-          <p class="sv-item-summary"><strong>Saranya Venkatraman</strong>, Thanh Tran, Shunyan Luo, Devin Chen, Yuning Wu, Kai Wei, Allie Colin, Guido Imbens, Ido Rosen, Christine Ambrose</p>
+          <a class="sv-item-title" href="https://cdn.amazon.science/d9/3b/f8deb9734e34a2dd9239f335ac76/scipub-approval152134-48355376-agentwin-an-endtoend-framework-for-building-agentic-twins-of-mobile-users.pdf" target="_blank" rel="noopener"><strong>AgenTwin</strong>: An End-to-End Framework for Building Agentic Twins of Mobile Users</a>
+          <p class="sv-item-summary">Saranya Venkatraman, Thanh Tran, Shunyan Luo, Devin Chen, Yuning Wu, Kai Wei, Allie Colin, Guido Imbens, Ido Rosen, Christine Ambrose</p>
           <p class="sv-item-meta">COLM 2026 Workshop on Agent Behavior<span class="sv-dot">·</span><a href="https://cdn.amazon.science/d9/3b/f8deb9734e34a2dd9239f335ac76/scipub-approval152134-48355376-agentwin-an-endtoend-framework-for-building-agentic-twins-of-mobile-users.pdf" target="_blank" rel="noopener">PDF</a></p>
         </div>
       </li>
       <li class="sv-pub">
         <a class="sv-thumb" href="https://arxiv.org/abs/2406.12665" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src="/images/collabstory.png" alt="" loading="lazy"></a>
         <div class="sv-pub-body">
-          <a class="sv-item-title" href="https://arxiv.org/abs/2406.12665" target="_blank" rel="noopener">CollabStory: Multi-LLM Collaborative Story Generation and Authorship Analysis</a>
-          <p class="sv-item-summary"><strong>Saranya Venkatraman</strong>, Nafis Irtiza Tripto, Dongwon Lee</p>
+          <a class="sv-item-title" href="https://arxiv.org/abs/2406.12665" target="_blank" rel="noopener"><strong>CollabStory</strong>: Multi-LLM Collaborative Story Generation and Authorship Analysis</a>
+          <p class="sv-item-summary">Saranya Venkatraman, Nafis Irtiza Tripto, Dongwon Lee</p>
           <p class="sv-item-meta">NAACL Findings 2025<span class="sv-dot">·</span><a href="https://arxiv.org/pdf/2406.12665" target="_blank" rel="noopener">PDF</a><span class="sv-dot">·</span><a href="https://github.com/saranya-venkatraman/multi_llm_story_writing">Code</a></p>
         </div>
       </li>
       <li class="sv-pub">
         <a class="sv-thumb" href="https://arxiv.org/pdf/2310.06202.pdf" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src="/images/gptwho.png" alt="" loading="lazy"></a>
         <div class="sv-pub-body">
-          <a class="sv-item-title" href="https://arxiv.org/pdf/2310.06202.pdf" target="_blank" rel="noopener">GPT-who: An Information Density-based Machine-Generated Text Detector</a>
-          <p class="sv-item-summary"><strong>Saranya Venkatraman</strong>, Adaku Uchendu, Dongwon Lee</p>
+          <a class="sv-item-title" href="https://arxiv.org/pdf/2310.06202.pdf" target="_blank" rel="noopener"><strong>GPT-who</strong>: An Information Density-based Machine-Generated Text Detector</a>
+          <p class="sv-item-summary">Saranya Venkatraman, Adaku Uchendu, Dongwon Lee</p>
           <p class="sv-item-meta">NAACL Findings 2024<span class="sv-dot">·</span><a href="https://arxiv.org/pdf/2310.06202" target="_blank" rel="noopener">PDF</a><span class="sv-dot">·</span><a href="https://github.com/saranya-venkatraman/gpt-who">Code</a></p>
         </div>
       </li>
       <li class="sv-pub">
         <a class="sv-thumb" href="https://arxiv.org/pdf/2311.08374" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src="/images/ship.png" alt="" loading="lazy"></a>
         <div class="sv-pub-body">
-          <a class="sv-item-title" href="https://arxiv.org/pdf/2311.08374" target="_blank" rel="noopener">A Ship of Theseus: Curious Cases of Paraphrasing in LLM-Generated Texts</a>
-          <p class="sv-item-summary">Nafis Irtiza Tripto, <strong>Saranya Venkatraman</strong>, Dominik Macko, Robert Moro, Ivan Srba, Adaku Uchendu, Thai Le, Dongwon Lee</p>
+          <a class="sv-item-title" href="https://arxiv.org/pdf/2311.08374" target="_blank" rel="noopener"><strong>A Ship of Theseus</strong>: Curious Cases of Paraphrasing in LLM-Generated Texts</a>
+          <p class="sv-item-summary">Nafis Irtiza Tripto, Saranya Venkatraman, Dominik Macko, Robert Moro, Ivan Srba, Adaku Uchendu, Thai Le, Dongwon Lee</p>
           <p class="sv-item-meta">ACL 2024<span class="sv-dot">·</span><a href="https://arxiv.org/pdf/2311.08374" target="_blank" rel="noopener">PDF</a></p>
         </div>
       </li>
       <li class="sv-pub">
         <a class="sv-thumb" href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src="/images/alison.png" alt="" loading="lazy"></a>
         <div class="sv-pub-body">
-          <a class="sv-item-title" href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank" rel="noopener">ALISON: Fast and Effective Stylometric Authorship Obfuscation</a>
-          <p class="sv-item-summary">Eric Xing, <strong>Saranya Venkatraman</strong>, Thai Le, Dongwon Lee</p>
+          <a class="sv-item-title" href="https://ojs.aaai.org/index.php/AAAI/article/view/29901" target="_blank" rel="noopener"><strong>ALISON</strong>: Fast and Effective Stylometric Authorship Obfuscation</a>
+          <p class="sv-item-summary">Eric Xing, Saranya Venkatraman, Thai Le, Dongwon Lee</p>
           <p class="sv-item-meta">AAAI 2024<span class="sv-dot">·</span><a href="https://arxiv.org/pdf/2402.00835" target="_blank" rel="noopener">PDF</a><span class="sv-dot">·</span><a href="https://github.com/ericx003/alison">Code</a></p>
         </div>
       </li>
       <li class="sv-pub">
         <a class="sv-thumb" href="https://tngoon.github.io/docs/pubs/Ngoon_etal_2024_CHI.pdf" target="_blank" rel="noopener" tabindex="-1" aria-hidden="true"><img src="/images/cis.png" alt="" loading="lazy"></a>
         <div class="sv-pub-body">
-          <a class="sv-item-title" href="https://tngoon.github.io/docs/pubs/Ngoon_etal_2024_CHI.pdf" target="_blank" rel="noopener">ClassInSight: Designing Conversation Support Tools to Visualize Classroom Discussion for Personalized Teacher Professional Development</a>
-          <p class="sv-item-summary">Tricia J Ngoon, S Sushil, Angela Stewart, Ung-Sang Lee, <strong>Saranya Venkatraman</strong>, Neil Thawani, Prasenjit Mitra, Sherice Clarke, John Zimmerman, Amy Ogan</p>
+          <a class="sv-item-title" href="https://tngoon.github.io/docs/pubs/Ngoon_etal_2024_CHI.pdf" target="_blank" rel="noopener"><strong>ClassInSight</strong>: Designing Conversation Support Tools to Visualize Classroom Discussion for Personalized Teacher Professional Development</a>
+          <p class="sv-item-summary">Tricia J Ngoon, S Sushil, Angela Stewart, Ung-Sang Lee, Saranya Venkatraman, Neil Thawani, Prasenjit Mitra, Sherice Clarke, John Zimmerman, Amy Ogan</p>
           <p class="sv-item-meta">CHI 2024<span class="sv-dot">·</span><a href="https://tngoon.github.io/docs/pubs/Ngoon_etal_2024_CHI.pdf" target="_blank" rel="noopener">PDF</a></p>
         </div>
       </li>
