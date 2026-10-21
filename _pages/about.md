@@ -3,16 +3,16 @@ permalink: /
 author_profile: false
 ---
 <style>
-  @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&family=Manrope:wght@700&display=swap');
 
   /* ---------- Reset the theme chrome on this page ---------- */
   .masthead, .page__footer, .page__inner-wrap > header, .page__meta { display: none !important; }
   html, body { background: #f4f7fc !important; }
-  body { padding: 0 !important; margin: 0 !important; color: #1a1a1a; font-family: Manrope, -apple-system, "Segoe UI", Arial, sans-serif !important; }
+  body { padding: 0 !important; margin: 0 !important; color: #1a1a1a; font-family: Lato, Arial, Tahoma, sans-serif !important; }
   #main { max-width: none !important; width: 100% !important; margin: 0 !important; padding: 0 !important; }
   .page { float: none !important; width: 100% !important; padding: 0 !important; margin: 0 !important; }
   .page__inner-wrap, .page__content { margin: 0 !important; padding: 0 !important; }
-  .page__content { font-family: Manrope, -apple-system, "Segoe UI", Arial, sans-serif !important; font-size: 16px !important; color: #1a1a1a; }
+  .page__content { font-family: Lato, Arial, Tahoma, sans-serif !important; font-size: 16px !important; color: #1a1a1a; }
   .page__content a { border: none !important; }
 
   /* ---------- Top bar ---------- */
@@ -49,7 +49,7 @@ author_profile: false
   /* ---------- Sections ---------- */
   .sv-bio + .sv-section { margin-top: 40px; }
   .sv-section + .sv-section { margin-top: 40px; }
-  .page__content h2.sv-section-label { font-family: Manrope, -apple-system, "Segoe UI", Arial, sans-serif !important; font-size: 11px !important; font-weight: 600 !important; text-transform: uppercase; letter-spacing: 0.12em; color: #5e5e5e !important; margin: 0 0 16px !important; padding: 0 0 14px !important; border: none !important; border-bottom: 1px solid #e0dbd6 !important; line-height: 1.5 !important; }
+  .page__content h2.sv-section-label { font-family: Lato, Arial, Tahoma, sans-serif !important; font-size: 11px !important; font-weight: 600 !important; text-transform: uppercase; letter-spacing: 0.12em; color: #5e5e5e !important; margin: 0 0 16px !important; padding: 0 0 14px !important; border: none !important; border-bottom: 1px solid #e0dbd6 !important; line-height: 1.5 !important; }
   ul.sv-list { list-style: none !important; padding: 0 !important; margin: 0 !important; }
   ul.sv-list > li { margin: 0 0 18px !important; padding: 0 !important; list-style: none !important; }
   ul.sv-list > li::marker { content: none; }
