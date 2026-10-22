@@ -92,8 +92,8 @@ author_profile: false
   <div class="sv-topbar-inner">
     <ul>
       <li><a href="/" class="active">Home</a></li>
-      <li><a href="#pubs-label">Publications</a></li>
       <li><a href="#exp-label">Experience</a></li>
+      <li><a href="#pubs-label">Publications</a></li>
       <li><a href="/files/CV_Venkatraman_Oct_2026.pdf">CV</a></li>
     </ul>
   </div>
@@ -124,6 +124,32 @@ author_profile: false
     <p>I'm an Applied Scientist at Amazon, where I build and evaluate agentic AI systems. My current work focuses on <em>user simulation</em>: building agentic "twins" of users. I completed my PhD at Penn State University, advised by <a href="https://pike.psu.edu/dongwon/">Prof. Dongwon Lee</a> in the <a href="https://pike.psu.edu/index.html">PIKE research group</a>, and was a Visiting Scholar at New York University in <a href="https://hhexiy.github.io">Prof. He He</a>'s group. My PhD research focused on <em>machine-generated text detection, authorship attribution, and obfuscation</em> for Large Language Models (LLMs), and on what does or doesn't make LLM-generated text "human-like."</p>
     <p>Along the way, I was a research intern at Google, Samsung, and Cadence, building RL, NLP, and ML solutions for dialogue-based recommenders, voice assistants, and hardware design layouts. I'm broadly curious about cognitively plausible architectures for language applications, and always happy to connect.</p>
   </div>
+
+  <section class="sv-section" aria-labelledby="exp-label">
+    <h2 class="sv-section-label" id="exp-label">Experience</h2>
+    <ul class="sv-list">
+      <li>
+        <span class="sv-item-title">Applied Scientist, Amazon</span>
+        <p class="sv-item-summary">Building LLM-powered agentic twins of customers to simulate shopping behavior and evaluate experiences at scale.</p>
+        <p class="sv-item-meta">Feb 2025 – Present</p>
+      </li>
+      <li>
+        <span class="sv-item-title">Research Intern, Google (Google Assistant)</span>
+        <p class="sv-item-summary">Built an RL (hierarchical Soft Actor-Critic) recommender dialogue agent that learns user preferences and suggests items from a marketplace.</p>
+        <p class="sv-item-meta">May – Sept 2020</p>
+      </li>
+      <li>
+        <span class="sv-item-title">Research Intern, Samsung Research America</span>
+        <p class="sv-item-summary">Built a semantic-search intent-to-action service for Bixby, deployed end-to-end on mobile devices.</p>
+        <p class="sv-item-meta">May – Aug 2018</p>
+      </li>
+      <li>
+        <span class="sv-item-title">Machine Learning Intern, Cadence Design Systems</span>
+        <p class="sv-item-summary">Built feature-extraction and ML pipelines for chip layout images, using hierarchical clustering for assisted labeling.</p>
+        <p class="sv-item-meta">May – Aug 2017</p>
+      </li>
+    </ul>
+  </section>
 
   <section class="sv-section" aria-labelledby="pubs-label">
     <h2 class="sv-section-label" id="pubs-label">Selected publications</h2>
@@ -178,32 +204,6 @@ author_profile: false
       </li>
     </ul>
     <a class="sv-view-all" href="https://scholar.google.com/citations?user=qrvxwt4AAAAJ&amp;hl=en" target="_blank" rel="noopener">All publications on Google Scholar →</a>
-  </section>
-
-  <section class="sv-section" aria-labelledby="exp-label">
-    <h2 class="sv-section-label" id="exp-label">Experience</h2>
-    <ul class="sv-list">
-      <li>
-        <span class="sv-item-title">Applied Scientist, Amazon</span>
-        <p class="sv-item-summary">Building LLM-powered agentic twins of customers to simulate shopping behavior and evaluate experiences at scale.</p>
-        <p class="sv-item-meta">Feb 2025 – Present</p>
-      </li>
-      <li>
-        <span class="sv-item-title">Research Intern, Google (Google Assistant)</span>
-        <p class="sv-item-summary">Built an RL (hierarchical Soft Actor-Critic) recommender dialogue agent that learns user preferences and suggests items from a marketplace.</p>
-        <p class="sv-item-meta">May – Sept 2020</p>
-      </li>
-      <li>
-        <span class="sv-item-title">Research Intern, Samsung Research America</span>
-        <p class="sv-item-summary">Built a semantic-search intent-to-action service for Bixby, deployed end-to-end on mobile devices.</p>
-        <p class="sv-item-meta">May – Aug 2018</p>
-      </li>
-      <li>
-        <span class="sv-item-title">Machine Learning Intern, Cadence Design Systems</span>
-        <p class="sv-item-summary">Built feature-extraction and ML pipelines for chip layout images, using hierarchical clustering for assisted labeling.</p>
-        <p class="sv-item-meta">May – Aug 2017</p>
-      </li>
-    </ul>
   </section>
 
   <section class="sv-section" aria-labelledby="tut-label">
